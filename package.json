@@ -1,0 +1,32 @@
+{
+  "name": "returnwise-ai",
+  "version": "1.0.0",
+  "description": "ReturnWise AI - Full-Stack Machine Learning E-Commerce Return Predictor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test tests/api.test.js",
+    "train": "python ml/train_model.py",
+    "test:ml": "python -m unittest discover -s tests -p \"test_*.py\"",
+    "ml-service": "python ml/predict_service.py"
+  },
+  "keywords": [
+    "machine-learning",
+    "ecommerce",
+    "return-prediction",
+    "express",
+    "scikit-learn",
+    "aws-bedrock",
+    "analytics"
+  ],
+  "author": "ReturnWise AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.750.0",
+    "@aws-sdk/client-s3": "^3.750.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
