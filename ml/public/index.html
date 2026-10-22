@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReturnWise AI — E-Commerce Return Risk Predictor & Analytics</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Chart.js via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="#home" class="brand" id="brand-link">
+        <div class="brand-icon">R</div>
+        <div class="brand-title">ReturnWise <span>AI</span></div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><button class="nav-btn active" data-target="home-view">Home</button></li>
+          <li><button class="nav-btn" data-target="checker-view">Check Order</button></li>
+          <li><button class="nav-btn" data-target="dashboard-view">Seller Dashboard</button></li>
+        </ul>
+      </nav>
+      <div class="nav-status" id="system-health-pill" title="Checking backend health...">
+        <span class="status-dot"></span>
+        <span id="health-status-text">System Ready</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- VIEW 1: HOME PAGE -->
+    <section id="home-view" class="page-view active">
+      <div class="hero">
+        <div class="hero-badge">
+          <span>⚡ Full-Stack ML E-Commerce Intelligence</span>
+        </div>
+        <h1 class="hero-title">
+          Predict E-Commerce Returns <br>
+          <span class="gradient-text">Before Orders Ship</span>
+        </h1>
+        <p class="hero-subtitle">
+          ReturnWise AI analyzes multi-signal order parameters to predict return probability, identify high-risk shipments, and equip online merchants with proactive intervention strategies.
+        </p>
+        <div class="hero-cta">
+          <button class="btn btn-primary" onclick="app.switchView('checker-view')">
+            Check Order Risk
+          </button>
+          <button class="btn btn-secondary" onclick="app.switchView('dashboard-view')">
+            Open Seller Dashboard
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Demo Stats Ribbon -->
+      <div class="stats-ribbon">
+        <div class="stat-card">
+          <span class="stat-label">Total Store Orders</span>
+          <span class="stat-value" id="home-stat-orders">50</span>
+          <span class="stat-desc">Fictional benchmark demo dataset</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Observed Return Rate</span>
+          <span class="stat-value" id="home-stat-rate">28.0%</span>
+          <span class="stat-desc">Historical store baseline outcome</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Predicted High-Risk</span>
+          <span class="stat-value" id="home-stat-highrisk" style="color: var(--risk-high-text);">11</span>
+          <span class="stat-desc">Orders flagged for pre-shipment action</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">ML Model Type</span>
+          <span class="stat-value" style="font-size: 1.6rem; color: var(--primary);">scikit-learn</span>
+          <span class="stat-desc">Calibrated Logistic Classification</span>
+        </div>
+      </div>
+
+      <!-- Feature Cards -->
+      <div class="section-header">
+        <h2 class="section-title">Engineered for E-Commerce Sellers</h2>
+        <p class="section-subtitle">A cohesive stack combining trained machine learning inference, real-time risk diagnostic factors, and executive seller analytics.</p>
+      </div>
+
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon-wrapper">🎯</div>
+          <h3 class="feature-title">Machine Learning Classification</h3>
+          <p class="feature-desc">
+            Trained on multi-variate order data using scikit-learn. Combines OneHot categorical encodings with standardized numeric signals to produce calibrated return-risk probabilities.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrapper">🔍</div>
+          <h3 class="feature-title">Category-Aware Risk Diagnostics</h3>
+          <p class="feature-desc">
+            Contextual domain logic: size variance heavily influences Clothing and Shoes, while transit duration, payment terms (COD vs. Prepaid), and customer history drive overall return risk.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon-wrapper">📊</div>
+          <h3 class="feature-title">Actionable Seller Analytics</h3>
+          <p class="feature-desc">
+            Real-time interactive dashboards with breakdown charts, risk-filtered order queues, and automated operational recommendations—powered optionally by Amazon Bedrock.
+          </p>
+        </div>
+      </div>
+
+      <!-- How it Works Workflow -->
+      <div class="workflow-section">
+        <div class="section-header">
+          <h2 class="section-title">How ReturnWise AI Works</h2>
+          <p class="section-subtitle">From order checkout to proactive merchant intervention in three simple steps.</p>
+        </div>
+        <div class="steps-grid">
+          <div class="step-card">
+            <div class="step-number">1</div>
+            <h4 class="step-title">Ingest Order Signals</h4>
+            <p class="step-desc">Captures item category, sizing, price, expected shipping days, customer return history, star rating, and payment method.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">2</div>
+            <h4 class="step-title">ML Pipeline Evaluation</h4>
+            <p class="step-desc">Python microservice applies the trained scikit-learn pipeline, evaluating feature weights to calculate a calibrated risk score (0-100).</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">3</div>
+            <h4 class="step-title">Proactive Interventions</h4>
+            <p class="step-desc">Generates the top three contributing factors and pairs them with two targeted seller actions before the parcel leaves the fulfillment center.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 2: ORDER RISK CHECKER -->
+    <section id="checker-view" class="page-view">
+      <div class="checker-layout">
+        <!-- Input Form -->
+        <div class="form-card">
+          <div class="form-header">
+            <h2>Order Return-Risk Checker</h2>
+            <p>Input new order parameters to run instant machine-learning prediction.</p>
+          </div>
+
+          <!-- Quick Presets -->
+          <div class="form-presets">
+            <span>Quick Presets:</span>
+            <button type="button" class="preset-chip" onclick="app.loadPreset('high-risk-clothing')">🚨 High-Risk Apparel (COD)</button>
+            <button type="button" class="preset-chip" onclick="app.loadPreset('low-risk-electronics')">✅ Low-Risk Electronics</button>
+            <button type="button" class="preset-chip" onclick="app.loadPreset('med-risk-shoes')">⚠️ Medium-Risk Shoes</button>
+          </div>
+
+          <form id="order-risk-form">
+            <div class="form-grid">
+              <!-- Category -->
+              <div class="form-group">
+                <label class="form-label" for="product_category">Product Category</label>
+                <select id="product_category" class="form-select" required>
+                  <option value="Clothing">Clothing</option>
+                  <option value="Shoes">Shoes</option>
+                  <option value="Electronics">Electronics</option>
+                  <option value="Home">Home</option>
+                </select>
+              </div>
+
+              <!-- Price -->
+              <div class="form-group">
+                <label class="form-label" for="product_price">Price ($)</label>
+                <input type="number" id="product_price" class="form-input" min="1" max="10000" step="0.01" value="79.00" required>
+              </div>
+
+              <!-- Size (Category-Aware) -->
+              <div class="form-group">
+                <label class="form-label" for="size">
+                  Size
+                  <span class="hint" id="size-hint">(Applies to apparel/shoes)</span>
+                </label>
+                <select id="size" class="form-select">
+                  <option value="XS">XS</option>
+                  <option value="S">S</option>
+                  <option value="M" selected>M</option>
+                  <option value="L">L</option>
+                  <option value="XL">XL</option>
+                  <option value="XXL">XXL</option>
+                  <option value="Not applicable">Not applicable</option>
+                </select>
+              </div>
+
+              <!-- Delivery Days -->
+              <div class="form-group">
+                <label class="form-label" for="delivery_days">Expected Delivery (Days)</label>
+                <input type="number" id="delivery_days" class="form-input" min="1" max="30" value="4" required>
+              </div>
+
+              <!-- Customer Previous Returns -->
+              <div class="form-group">
+                <label class="form-label" for="customer_previous_returns">Customer Previous Returns</label>
+                <input type="number" id="customer_previous_returns" class="form-input" min="0" max="50" value="1" required>
+              </div>
+
+              <!-- Product Rating -->
+              <div class="form-group">
+                <label class="form-label" for="product_rating">Product Rating (1.0 - 5.0)</label>
+                <input type="number" id="product_rating" class="form-input" min="1.0" max="5.0" step="0.1" value="4.2" required>
+              </div>
+
+              <!-- Payment Type -->
+              <div class="form-group full-width">
+                <label class="form-label">Payment Method</label>
+                <div class="segmented-control">
+                  <button type="button" class="segment-btn" data-value="Prepaid" id="btn-pay-prepaid">Prepaid (Credit/Debit/UPI)</button>
+                  <button type="button" class="segment-btn active" data-value="COD" id="btn-pay-cod">Cash on Delivery (COD)</button>
+                </div>
+                <input type="hidden" id="payment_type" value="COD">
+              </div>
+            </div>
+
+            <div id="form-error-banner" class="alert alert-danger" style="display: none; margin-top: 16px;"></div>
+
+            <button type="submit" class="btn btn-primary submit-btn" id="predict-submit-btn">
+              <span>Predict Return Risk</span>
+            </button>
+          </form>
+        </div>
+
+        <!-- Prediction Results Card -->
+        <div class="results-card" id="results-card">
+          <!-- Initial Placeholder State -->
+          <div class="empty-results" id="results-empty">
+            <div class="empty-icon">📈</div>
+            <h3>Ready for Prediction</h3>
+            <p>Fill out order details or choose a preset on the left, then click <strong>Predict Return Risk</strong>.</p>
+          </div>
+
+          <!-- Loading State -->
+          <div class="empty-results" id="results-loading" style="display: none;">
+            <div class="spinner" style="width: 36px; height: 36px; border-width: 3px; border-top-color: var(--primary);"></div>
+            <h3 style="margin-top: 16px;">Running ML Model Inference...</h3>
+            <p>Analyzing feature interactions and evaluating risk probability.</p>
+          </div>
+
+          <!-- Active Results Display -->
+          <div id="results-content" style="display: none;">
+            <div class="results-header">
+              <span class="results-title">Prediction Diagnostics</span>
+              <span class="badge" id="risk-badge">Low Risk</span>
+            </div>
+
+            <!-- Risk Gauge & Score -->
+            <div class="gauge-container">
+              <div class="gauge-score-display">
+                <span class="gauge-score-val" id="score-value">0</span>
+                <span class="gauge-score-max">/100</span>
+              </div>
+              <div class="risk-meter-bar">
+                <div class="risk-meter-pointer" id="meter-pointer" style="left: 0%;"></div>
+              </div>
+            </div>
+
+            <!-- Brief Explanation -->
+            <div class="prediction-explanation" id="prediction-explanation">
+              Evaluation complete.
+            </div>
+
+            <!-- Top 3 Contributing Factors -->
+            <div class="section-subhead">Top 3 Contributing Factors</div>
+            <div class="factors-list" id="factors-list">
+              <!-- Injected by JavaScript -->
+            </div>
+
+            <!-- Exactly Two Actionable Recommendations -->
+            <div class="section-subhead">Recommended Actions (2)</div>
+            <div class="recommendations-list" id="recommendations-list">
+              <!-- Injected by JavaScript -->
+            </div>
+
+            <!-- Engine & Channel Tag -->
+            <div class="engine-tag">
+              <span id="engine-model-type">scikit-learn Model</span>
+              <span id="engine-status-flag" style="font-weight: 600; color: #10b981;">● Calibrated Pipeline</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 3: SELLER ANALYTICS DASHBOARD -->
+    <section id="dashboard-view" class="page-view">
+      <!-- AI Recommendations Banner (Amazon Bedrock / Fallback) -->
+      <div class="insights-banner">
+        <div class="insights-header">
+          <h3>
+            <span>💡</span> AI-Driven Seller Recommendations
+          </h3>
+          <div style="display: flex; gap: 10px; align-items: center;">
+            <span class="ai-status-tag" id="bedrock-status-pill">Local Heuristic Engine</span>
+            <button class="btn btn-secondary btn-sm" id="btn-generate-ai" onclick="app.fetchBedrockInsights()">
+              <span>🔄 Refresh Recommendations</span>
+            </button>
+          </div>
+        </div>
+        <div class="insights-grid" id="ai-insights-container">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+
+      <!-- Dashboard Metric Ribbon -->
+      <div class="stats-ribbon" style="margin-top: 0;">
+        <div class="stat-card">
+          <span class="stat-label">Total Demo Orders</span>
+          <span class="stat-value" id="dash-stat-total">50</span>
+          <span class="stat-desc">Fictional sample dataset</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Total Returned Orders</span>
+          <span class="stat-value" id="dash-stat-returned">14</span>
+          <span class="stat-desc">Verified historical returns</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Overall Return Rate</span>
+          <span class="stat-value" id="dash-stat-rate">28.0%</span>
+          <span class="stat-desc">Calculated across all orders</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">High-Risk Orders</span>
+          <span class="stat-value" id="dash-stat-highrisk" style="color: var(--risk-high-text);">11</span>
+          <span class="stat-desc">Orders scoring > 65%</span>
+        </div>
+      </div>
+
+      <!-- Charts Grid -->
+      <div class="charts-grid">
+        <div class="chart-card">
+          <div class="chart-title">
+            <span>Return Rate by Category (%)</span>
+            <span style="font-size: 0.8rem; font-weight: 500; color: var(--text-muted);">Calculated from JSON</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="categoryChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card">
+          <div class="chart-title">
+            <span>Frequent Return Reasons</span>
+            <span style="font-size: 0.8rem; font-weight: 500; color: var(--text-muted);">From returned items</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="reasonsChart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dashboard Filters & Search Toolbar -->
+      <div class="dashboard-toolbar">
+        <div class="filters-group">
+          <label style="font-size: 0.85rem; font-weight: 600; color: var(--navy);">Filter By:</label>
+          <select id="filter-category" class="filter-select" onchange="app.applyOrderFilters()">
+            <option value="all">All Categories</option>
+            <option value="Clothing">Clothing</option>
+            <option value="Shoes">Shoes</option>
+            <option value="Electronics">Electronics</option>
+            <option value="Home">Home</option>
+          </select>
+
+          <select id="filter-risk" class="filter-select" onchange="app.applyOrderFilters()">
+            <option value="all">All Risk Levels</option>
+            <option value="High">High Risk Only</option>
+            <option value="Medium">Medium Risk Only</option>
+            <option value="Low">Low Risk Only</option>
+          </select>
+
+          <select id="filter-payment" class="filter-select" onchange="app.applyOrderFilters()">
+            <option value="all">All Payment Types</option>
+            <option value="COD">Cash on Delivery (COD)</option>
+            <option value="Prepaid">Prepaid</option>
+          </select>
+        </div>
+
+        <div>
+          <input type="text" id="filter-search" class="search-input" placeholder="Search order ID, product..." oninput="app.applyOrderFilters()">
+        </div>
+      </div>
+
+      <!-- High-Risk Orders Queue Table -->
+      <div class="table-card">
+        <div class="table-header">
+          <div>
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--navy);">Demo Orders Queue</h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted);">Showing <span id="orders-shown-count">50</span> orders from <code style="background: #f1f5f9; padding: 2px 6px; border-radius: 4px;">data/orders.json</code></p>
+          </div>
+          <span class="badge badge-med">Fictional Demo Data</span>
+        </div>
+
+        <div class="table-responsive">
+          <table class="custom-table">
+            <thead>
+              <tr>
+                <th>Order ID</th>
+                <th>Product</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Payment</th>
+                <th>Delivery</th>
+                <th>Rating</th>
+                <th>Risk Score</th>
+                <th>Risk Level</th>
+                <th>Demo Outcome</th>
+              </tr>
+            </thead>
+            <tbody id="orders-table-body">
+              <!-- Injected via JavaScript -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div>
+        <div class="brand" style="margin-bottom: 8px;">
+          <div class="brand-icon" style="width: 28px; height: 28px; font-size: 0.9rem;">R</div>
+          <div class="brand-title" style="font-size: 1rem;">ReturnWise <span>AI</span></div>
+        </div>
+        <p class="footer-disclaimer">
+          <strong>Fictional Demo Disclaimer:</strong> ReturnWise AI demonstrates predictive e-commerce machine learning using synthetic benchmark data. No access to real customer accounts or Amazon order databases is claimed or utilized.
+        </p>
+      </div>
+      <div>
+        <p style="font-weight: 600; color: var(--navy);">ReturnWise AI Stack</p>
+        <p style="font-size: 0.8rem; color: var(--text-muted);">Node.js • Express • scikit-learn • AWS Bedrock & S3 (Optional)</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

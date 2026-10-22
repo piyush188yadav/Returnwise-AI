@@ -1,0 +1,1201 @@
+order_id,product_category,product_price,size,delivery_days,customer_previous_returns,product_rating,payment_type,returned
+SYN-10000,Electronics,107.16,Not applicable,2,1,3.5,Prepaid,0
+SYN-10001,Home,68.55,Not applicable,5,1,3.8,COD,1
+SYN-10002,Electronics,85.82,Not applicable,1,2,3.7,COD,0
+SYN-10003,Electronics,155.06,Not applicable,2,2,4.1,COD,1
+SYN-10004,Home,45.19,Not applicable,3,0,3.8,COD,0
+SYN-10005,Home,61.14,Not applicable,5,3,3.6,Prepaid,0
+SYN-10006,Electronics,164.01,Not applicable,1,0,4.6,COD,0
+SYN-10007,Clothing,91.02,S,4,0,5.0,Prepaid,0
+SYN-10008,Home,69.41,Not applicable,3,2,4.4,Prepaid,0
+SYN-10009,Electronics,149.24,Not applicable,6,0,4.1,Prepaid,0
+SYN-10010,Clothing,37.35,XL,1,1,5.0,COD,1
+SYN-10011,Shoes,47.23,L,4,0,3.3,Prepaid,0
+SYN-10012,Electronics,159.43,Not applicable,6,0,5.0,Prepaid,0
+SYN-10013,Home,34.0,Not applicable,6,0,4.8,Prepaid,0
+SYN-10014,Shoes,50.78,M,4,1,3.7,Prepaid,0
+SYN-10015,Clothing,28.2,M,4,0,3.9,Prepaid,0
+SYN-10016,Clothing,44.38,M,2,4,4.3,Prepaid,0
+SYN-10017,Electronics,83.95,Not applicable,1,0,3.9,Prepaid,1
+SYN-10018,Electronics,158.23,Not applicable,4,0,4.8,Prepaid,0
+SYN-10019,Clothing,30.34,S,4,0,4.9,COD,0
+SYN-10020,Shoes,52.74,L,3,1,5.0,COD,0
+SYN-10021,Home,90.45,Not applicable,1,0,4.9,Prepaid,0
+SYN-10022,Home,68.39,Not applicable,5,1,4.6,Prepaid,0
+SYN-10023,Electronics,121.3,Not applicable,4,0,4.7,Prepaid,0
+SYN-10024,Shoes,28.52,M,5,0,4.3,COD,0
+SYN-10025,Electronics,74.9,Not applicable,4,0,3.4,COD,0
+SYN-10026,Clothing,70.26,XL,4,3,5.0,Prepaid,1
+SYN-10027,Shoes,59.73,L,1,2,4.6,COD,1
+SYN-10028,Electronics,93.44,Not applicable,4,0,3.4,Prepaid,0
+SYN-10029,Electronics,131.71,Not applicable,7,0,4.7,Prepaid,1
+SYN-10030,Home,91.2,Not applicable,4,2,3.0,Prepaid,0
+SYN-10031,Clothing,105.79,M,6,0,5.0,Prepaid,0
+SYN-10032,Electronics,151.53,Not applicable,6,0,4.7,COD,0
+SYN-10033,Home,69.18,Not applicable,7,0,5.0,Prepaid,1
+SYN-10034,Shoes,90.06,M,1,0,4.2,COD,0
+SYN-10035,Electronics,155.65,Not applicable,2,1,3.3,Prepaid,1
+SYN-10036,Clothing,90.97,XL,7,0,3.2,Prepaid,0
+SYN-10037,Electronics,104.22,Not applicable,1,5,3.4,Prepaid,0
+SYN-10038,Electronics,82.38,Not applicable,3,0,4.1,Prepaid,0
+SYN-10039,Home,57.61,Not applicable,6,1,3.9,Prepaid,0
+SYN-10040,Clothing,116.63,XL,2,2,3.8,Prepaid,1
+SYN-10041,Home,106.27,Not applicable,5,0,3.4,Prepaid,0
+SYN-10042,Clothing,78.87,M,4,1,4.7,COD,1
+SYN-10043,Electronics,134.97,Not applicable,2,4,4.1,COD,0
+SYN-10044,Electronics,64.22,Not applicable,5,0,4.0,Prepaid,0
+SYN-10045,Shoes,76.62,XXL,2,0,3.3,COD,0
+SYN-10046,Shoes,55.03,M,5,0,3.5,COD,0
+SYN-10047,Shoes,39.19,XS,6,1,3.2,COD,1
+SYN-10048,Home,59.38,Not applicable,4,0,2.5,COD,1
+SYN-10049,Home,80.69,Not applicable,5,3,5.0,COD,0
+SYN-10050,Home,64.01,Not applicable,5,1,3.7,COD,1
+SYN-10051,Home,69.99,Not applicable,7,0,2.8,Prepaid,0
+SYN-10052,Clothing,65.84,M,2,0,4.0,COD,0
+SYN-10053,Shoes,66.51,L,4,1,3.7,Prepaid,0
+SYN-10054,Electronics,215.13,Not applicable,2,0,1.2,Prepaid,1
+SYN-10055,Electronics,98.84,Not applicable,3,0,3.5,COD,1
+SYN-10056,Shoes,47.35,L,4,0,4.4,Prepaid,0
+SYN-10057,Clothing,24.59,XXL,8,4,4.0,COD,0
+SYN-10058,Shoes,63.46,XS,2,0,4.2,COD,1
+SYN-10059,Clothing,89.58,S,6,2,4.1,COD,0
+SYN-10060,Clothing,18.98,L,3,0,3.8,Prepaid,0
+SYN-10061,Clothing,75.36,XL,1,0,5.0,COD,0
+SYN-10062,Clothing,65.8,L,6,0,4.9,Prepaid,0
+SYN-10063,Clothing,55.63,S,5,0,3.1,Prepaid,1
+SYN-10064,Clothing,79.22,XXL,1,0,3.9,COD,0
+SYN-10065,Shoes,64.68,L,5,0,3.5,Prepaid,1
+SYN-10066,Electronics,97.77,Not applicable,7,1,4.8,Prepaid,0
+SYN-10067,Shoes,60.29,M,5,0,3.0,COD,0
+SYN-10068,Electronics,93.96,Not applicable,1,1,4.3,Prepaid,0
+SYN-10069,Shoes,51.86,XL,4,0,5.0,COD,0
+SYN-10070,Electronics,78.44,Not applicable,2,1,2.7,COD,0
+SYN-10071,Electronics,83.92,Not applicable,2,0,5.0,Prepaid,0
+SYN-10072,Shoes,99.12,L,1,2,3.9,COD,0
+SYN-10073,Clothing,57.53,M,4,0,4.3,COD,1
+SYN-10074,Electronics,70.44,Not applicable,5,0,3.5,Prepaid,0
+SYN-10075,Shoes,59.92,M,1,0,3.6,COD,0
+SYN-10076,Home,62.89,Not applicable,6,0,3.5,Prepaid,0
+SYN-10077,Clothing,101.63,M,7,0,4.7,Prepaid,0
+SYN-10078,Clothing,62.85,M,4,0,4.0,Prepaid,0
+SYN-10079,Electronics,141.16,Not applicable,5,0,4.0,COD,0
+SYN-10080,Shoes,76.0,M,2,1,4.8,Prepaid,0
+SYN-10081,Shoes,29.98,M,8,2,4.4,COD,1
+SYN-10082,Shoes,80.92,S,3,0,4.6,Prepaid,0
+SYN-10083,Electronics,125.12,Not applicable,6,1,4.1,Prepaid,1
+SYN-10084,Home,44.79,Not applicable,5,0,4.8,Prepaid,0
+SYN-10085,Clothing,105.75,M,4,0,2.6,Prepaid,1
+SYN-10086,Electronics,75.93,Not applicable,3,0,5.0,Prepaid,0
+SYN-10087,Shoes,32.85,XL,3,0,2.9,Prepaid,0
+SYN-10088,Clothing,71.87,XL,7,1,4.1,Prepaid,0
+SYN-10089,Shoes,67.15,M,3,0,3.4,COD,1
+SYN-10090,Electronics,222.52,Not applicable,9,0,4.5,COD,0
+SYN-10091,Electronics,99.43,Not applicable,4,1,3.5,COD,0
+SYN-10092,Clothing,47.33,XXL,2,0,4.4,COD,1
+SYN-10093,Shoes,143.96,M,2,0,4.0,Prepaid,0
+SYN-10094,Shoes,127.97,L,3,0,4.5,COD,0
+SYN-10095,Home,113.78,Not applicable,4,1,4.0,Prepaid,0
+SYN-10096,Electronics,115.77,Not applicable,6,0,3.5,COD,0
+SYN-10097,Electronics,135.2,Not applicable,6,0,4.4,Prepaid,0
+SYN-10098,Clothing,49.62,M,6,2,5.0,Prepaid,0
+SYN-10099,Shoes,62.45,L,3,0,3.1,Prepaid,0
+SYN-10100,Home,52.8,Not applicable,5,0,3.1,COD,0
+SYN-10101,Electronics,93.86,Not applicable,4,0,4.4,Prepaid,0
+SYN-10102,Home,72.88,Not applicable,5,0,5.0,Prepaid,1
+SYN-10103,Clothing,49.5,XL,5,1,3.6,Prepaid,0
+SYN-10104,Electronics,60.41,Not applicable,1,3,3.3,COD,1
+SYN-10105,Clothing,48.52,M,4,0,5.0,Prepaid,0
+SYN-10106,Clothing,144.22,XL,2,0,3.4,Prepaid,0
+SYN-10107,Shoes,110.5,L,6,0,3.8,Prepaid,0
+SYN-10108,Electronics,284.7,Not applicable,7,0,3.7,Prepaid,1
+SYN-10109,Clothing,32.74,S,4,0,2.4,Prepaid,0
+SYN-10110,Clothing,37.48,XXL,3,0,4.0,Prepaid,1
+SYN-10111,Electronics,157.9,Not applicable,6,0,4.5,Prepaid,1
+SYN-10112,Shoes,119.25,M,4,1,4.1,COD,1
+SYN-10113,Home,72.13,Not applicable,3,5,2.9,COD,1
+SYN-10114,Clothing,106.76,L,4,0,5.0,Prepaid,0
+SYN-10115,Electronics,55.45,Not applicable,6,2,4.9,Prepaid,1
+SYN-10116,Clothing,102.61,S,4,0,4.9,Prepaid,0
+SYN-10117,Clothing,116.45,M,2,2,3.0,COD,1
+SYN-10118,Shoes,26.2,S,5,1,4.4,COD,0
+SYN-10119,Clothing,68.46,L,6,0,3.7,Prepaid,1
+SYN-10120,Home,55.49,Not applicable,8,0,3.9,COD,1
+SYN-10121,Shoes,76.61,L,2,0,5.0,COD,0
+SYN-10122,Shoes,33.7,M,6,0,3.8,COD,1
+SYN-10123,Clothing,141.05,XL,7,2,3.5,Prepaid,1
+SYN-10124,Clothing,95.6,S,2,2,3.5,Prepaid,1
+SYN-10125,Electronics,128.83,Not applicable,8,0,4.2,COD,1
+SYN-10126,Shoes,94.33,L,3,0,4.0,Prepaid,0
+SYN-10127,Shoes,87.66,M,7,0,5.0,Prepaid,0
+SYN-10128,Clothing,26.37,S,3,0,5.0,COD,0
+SYN-10129,Home,148.94,Not applicable,3,0,3.2,Prepaid,0
+SYN-10130,Shoes,55.81,XL,3,0,3.9,Prepaid,0
+SYN-10131,Shoes,101.48,M,3,0,4.8,Prepaid,1
+SYN-10132,Shoes,42.45,XS,5,1,4.1,Prepaid,0
+SYN-10133,Shoes,43.47,L,4,0,3.8,COD,0
+SYN-10134,Shoes,94.64,L,1,2,4.5,COD,0
+SYN-10135,Home,77.94,Not applicable,1,0,4.0,COD,0
+SYN-10136,Electronics,153.18,Not applicable,2,2,2.6,COD,0
+SYN-10137,Home,39.17,Not applicable,6,1,4.0,Prepaid,0
+SYN-10138,Shoes,33.95,M,1,0,3.4,Prepaid,1
+SYN-10139,Electronics,73.83,Not applicable,5,0,4.0,COD,0
+SYN-10140,Electronics,102.99,Not applicable,4,0,4.1,Prepaid,1
+SYN-10141,Clothing,64.46,L,4,0,3.5,Prepaid,0
+SYN-10142,Electronics,141.82,Not applicable,3,0,3.6,Prepaid,0
+SYN-10143,Clothing,89.08,M,4,1,4.1,Prepaid,0
+SYN-10144,Home,54.59,Not applicable,7,0,4.0,COD,0
+SYN-10145,Electronics,190.85,Not applicable,5,1,3.9,Prepaid,0
+SYN-10146,Electronics,149.12,Not applicable,3,2,3.1,COD,0
+SYN-10147,Shoes,30.03,XS,5,2,4.8,Prepaid,1
+SYN-10148,Electronics,113.18,Not applicable,1,0,4.5,Prepaid,0
+SYN-10149,Clothing,91.12,M,5,0,3.4,COD,0
+SYN-10150,Shoes,109.68,M,4,2,4.9,Prepaid,0
+SYN-10151,Electronics,88.76,Not applicable,3,1,4.6,Prepaid,0
+SYN-10152,Electronics,210.58,Not applicable,6,0,4.8,Prepaid,0
+SYN-10153,Shoes,155.25,XS,5,1,3.3,COD,0
+SYN-10154,Shoes,59.92,L,4,4,3.5,COD,0
+SYN-10155,Clothing,33.16,M,7,0,4.2,Prepaid,1
+SYN-10156,Clothing,42.08,XL,4,1,4.5,COD,0
+SYN-10157,Electronics,156.01,Not applicable,5,1,4.0,COD,0
+SYN-10158,Electronics,128.68,Not applicable,6,2,3.7,Prepaid,0
+SYN-10159,Shoes,80.47,XL,3,0,3.1,COD,0
+SYN-10160,Shoes,28.34,M,3,4,3.5,Prepaid,0
+SYN-10161,Clothing,56.4,XS,6,3,4.0,Prepaid,0
+SYN-10162,Shoes,79.86,M,4,0,4.1,COD,0
+SYN-10163,Home,68.52,Not applicable,6,3,3.2,Prepaid,0
+SYN-10164,Electronics,137.86,Not applicable,4,0,3.9,Prepaid,0
+SYN-10165,Electronics,167.33,Not applicable,5,2,3.3,Prepaid,0
+SYN-10166,Shoes,125.41,XL,2,0,3.8,COD,0
+SYN-10167,Shoes,71.97,M,4,1,5.0,Prepaid,0
+SYN-10168,Electronics,258.71,Not applicable,5,3,4.0,COD,1
+SYN-10169,Clothing,74.09,S,3,2,5.0,Prepaid,0
+SYN-10170,Clothing,55.2,M,1,0,4.4,Prepaid,0
+SYN-10171,Clothing,94.72,S,3,0,5.0,COD,0
+SYN-10172,Shoes,101.35,M,4,0,4.9,Prepaid,0
+SYN-10173,Home,56.65,Not applicable,5,0,4.2,COD,0
+SYN-10174,Home,82.17,Not applicable,6,0,3.8,COD,1
+SYN-10175,Shoes,109.19,L,4,0,3.6,COD,0
+SYN-10176,Electronics,53.59,Not applicable,3,0,4.1,Prepaid,1
+SYN-10177,Shoes,91.86,M,7,1,4.7,Prepaid,0
+SYN-10178,Electronics,178.67,Not applicable,7,0,4.1,Prepaid,0
+SYN-10179,Electronics,47.32,Not applicable,4,0,4.6,COD,0
+SYN-10180,Clothing,165.21,M,3,0,4.3,COD,0
+SYN-10181,Clothing,28.98,M,6,0,3.2,COD,1
+SYN-10182,Clothing,180.22,M,2,0,3.5,Prepaid,0
+SYN-10183,Home,33.11,Not applicable,6,0,4.2,COD,0
+SYN-10184,Electronics,96.82,Not applicable,3,0,5.0,COD,0
+SYN-10185,Electronics,118.79,Not applicable,4,0,3.0,COD,0
+SYN-10186,Clothing,47.74,M,2,0,3.4,Prepaid,0
+SYN-10187,Shoes,84.19,M,4,0,3.7,Prepaid,0
+SYN-10188,Clothing,51.99,M,1,0,4.3,Prepaid,0
+SYN-10189,Clothing,53.44,L,6,0,3.9,COD,1
+SYN-10190,Clothing,60.74,S,6,0,3.6,COD,0
+SYN-10191,Shoes,43.25,M,4,1,5.0,Prepaid,0
+SYN-10192,Clothing,100.31,M,4,1,2.5,Prepaid,0
+SYN-10193,Home,32.25,Not applicable,4,0,5.0,COD,0
+SYN-10194,Home,26.03,Not applicable,2,0,4.3,COD,0
+SYN-10195,Electronics,89.21,Not applicable,4,0,4.7,COD,0
+SYN-10196,Electronics,69.33,Not applicable,3,1,2.9,Prepaid,0
+SYN-10197,Clothing,72.7,M,3,0,4.0,COD,1
+SYN-10198,Electronics,84.48,Not applicable,2,1,4.1,Prepaid,0
+SYN-10199,Shoes,50.74,M,4,0,3.9,COD,0
+SYN-10200,Electronics,66.08,Not applicable,2,0,4.5,COD,0
+SYN-10201,Clothing,66.94,L,3,0,3.8,Prepaid,0
+SYN-10202,Shoes,58.48,XS,4,2,3.4,COD,1
+SYN-10203,Clothing,75.02,M,3,2,4.0,Prepaid,0
+SYN-10204,Clothing,93.43,L,1,0,3.7,COD,0
+SYN-10205,Clothing,32.21,XS,3,1,4.8,Prepaid,1
+SYN-10206,Clothing,78.18,M,3,0,3.8,COD,0
+SYN-10207,Electronics,291.88,Not applicable,4,0,4.4,Prepaid,0
+SYN-10208,Clothing,76.45,L,3,0,3.3,COD,0
+SYN-10209,Clothing,97.93,M,3,1,4.2,Prepaid,1
+SYN-10210,Electronics,83.4,Not applicable,6,0,4.7,Prepaid,0
+SYN-10211,Home,73.8,Not applicable,6,0,2.0,Prepaid,0
+SYN-10212,Clothing,93.06,M,2,1,4.0,Prepaid,0
+SYN-10213,Home,87.64,Not applicable,7,0,3.9,Prepaid,0
+SYN-10214,Electronics,277.58,Not applicable,1,1,4.0,Prepaid,0
+SYN-10215,Home,56.77,Not applicable,1,0,4.6,Prepaid,0
+SYN-10216,Electronics,139.31,Not applicable,2,0,5.0,Prepaid,0
+SYN-10217,Home,53.58,Not applicable,2,0,4.7,Prepaid,0
+SYN-10218,Electronics,242.49,Not applicable,7,0,4.1,COD,0
+SYN-10219,Electronics,134.87,Not applicable,3,0,3.5,COD,1
+SYN-10220,Electronics,89.45,Not applicable,5,0,4.1,COD,0
+SYN-10221,Clothing,83.44,S,5,1,5.0,COD,0
+SYN-10222,Electronics,149.66,Not applicable,2,0,4.6,Prepaid,0
+SYN-10223,Home,83.44,Not applicable,2,0,4.7,COD,0
+SYN-10224,Electronics,169.75,Not applicable,6,1,4.5,COD,0
+SYN-10225,Clothing,71.38,S,7,1,3.3,COD,0
+SYN-10226,Electronics,41.32,Not applicable,3,0,4.7,Prepaid,0
+SYN-10227,Clothing,43.07,M,7,0,4.8,COD,1
+SYN-10228,Shoes,109.01,S,1,0,3.8,Prepaid,0
+SYN-10229,Shoes,24.57,M,4,3,4.2,COD,1
+SYN-10230,Shoes,73.3,S,3,1,4.4,COD,0
+SYN-10231,Electronics,113.9,Not applicable,2,0,4.1,Prepaid,0
+SYN-10232,Shoes,115.06,L,6,1,4.0,COD,1
+SYN-10233,Shoes,115.96,M,4,0,3.9,Prepaid,0
+SYN-10234,Clothing,65.67,XL,4,0,2.9,COD,1
+SYN-10235,Clothing,138.26,M,3,0,4.3,COD,0
+SYN-10236,Clothing,36.56,S,4,0,3.2,Prepaid,0
+SYN-10237,Electronics,117.32,Not applicable,2,1,4.2,Prepaid,0
+SYN-10238,Clothing,69.82,M,5,0,5.0,COD,0
+SYN-10239,Electronics,88.36,Not applicable,1,0,3.2,Prepaid,0
+SYN-10240,Shoes,116.56,L,2,0,3.1,Prepaid,0
+SYN-10241,Electronics,125.96,Not applicable,2,3,3.0,Prepaid,1
+SYN-10242,Clothing,90.57,L,3,0,4.2,Prepaid,0
+SYN-10243,Clothing,46.68,L,1,0,3.6,COD,0
+SYN-10244,Electronics,112.97,Not applicable,3,0,3.1,COD,0
+SYN-10245,Shoes,81.12,XL,1,0,5.0,Prepaid,0
+SYN-10246,Clothing,51.39,M,5,0,4.5,COD,0
+SYN-10247,Clothing,65.6,L,3,0,2.4,COD,0
+SYN-10248,Clothing,53.08,S,2,1,4.2,COD,0
+SYN-10249,Clothing,53.65,L,6,0,2.1,COD,0
+SYN-10250,Clothing,64.7,M,7,2,3.5,Prepaid,0
+SYN-10251,Clothing,39.91,XL,2,1,4.1,Prepaid,0
+SYN-10252,Home,69.19,Not applicable,5,0,4.0,COD,0
+SYN-10253,Shoes,97.07,L,5,1,3.6,Prepaid,0
+SYN-10254,Clothing,72.24,M,7,1,4.3,Prepaid,0
+SYN-10255,Home,44.61,Not applicable,6,0,4.2,Prepaid,0
+SYN-10256,Clothing,65.74,M,3,0,4.5,COD,0
+SYN-10257,Clothing,38.0,XXL,2,0,4.9,Prepaid,0
+SYN-10258,Clothing,40.0,XXL,5,0,3.2,COD,0
+SYN-10259,Electronics,186.61,Not applicable,7,1,3.8,Prepaid,0
+SYN-10260,Clothing,69.15,L,4,0,4.4,Prepaid,0
+SYN-10261,Clothing,43.95,XL,5,6,5.0,COD,1
+SYN-10262,Clothing,24.45,XS,3,0,3.3,Prepaid,0
+SYN-10263,Clothing,126.1,S,2,0,3.8,COD,0
+SYN-10264,Clothing,107.97,XL,3,1,3.8,Prepaid,1
+SYN-10265,Electronics,158.48,Not applicable,1,3,5.0,COD,1
+SYN-10266,Clothing,72.13,S,5,0,4.2,COD,0
+SYN-10267,Clothing,49.09,M,6,2,3.5,Prepaid,0
+SYN-10268,Clothing,33.73,L,5,3,5.0,COD,0
+SYN-10269,Clothing,57.0,S,4,3,4.1,Prepaid,1
+SYN-10270,Electronics,90.17,Not applicable,3,1,5.0,Prepaid,0
+SYN-10271,Electronics,143.6,Not applicable,3,3,4.6,Prepaid,0
+SYN-10272,Clothing,117.25,L,3,1,5.0,Prepaid,0
+SYN-10273,Clothing,177.93,S,1,0,4.8,COD,0
+SYN-10274,Home,53.05,Not applicable,5,0,4.0,COD,1
+SYN-10275,Shoes,34.38,XS,2,0,3.0,COD,0
+SYN-10276,Shoes,63.06,S,4,1,4.9,Prepaid,0
+SYN-10277,Electronics,151.73,Not applicable,6,4,3.6,Prepaid,1
+SYN-10278,Clothing,31.16,L,3,0,4.2,COD,0
+SYN-10279,Clothing,111.78,L,1,5,4.3,COD,0
+SYN-10280,Clothing,75.91,XS,6,0,4.5,COD,0
+SYN-10281,Home,62.64,Not applicable,5,0,3.8,Prepaid,1
+SYN-10282,Shoes,48.96,XS,7,3,4.5,Prepaid,0
+SYN-10283,Shoes,175.61,XXL,2,0,3.4,Prepaid,0
+SYN-10284,Home,88.02,Not applicable,5,4,4.0,Prepaid,0
+SYN-10285,Clothing,81.77,S,3,5,3.9,COD,1
+SYN-10286,Shoes,44.53,M,1,0,3.4,COD,0
+SYN-10287,Clothing,37.48,S,5,0,3.3,COD,0
+SYN-10288,Electronics,147.63,Not applicable,5,1,4.0,COD,0
+SYN-10289,Shoes,23.17,M,5,1,4.1,Prepaid,0
+SYN-10290,Clothing,65.86,S,3,6,2.9,Prepaid,1
+SYN-10291,Home,47.04,Not applicable,5,0,3.3,Prepaid,0
+SYN-10292,Clothing,89.5,M,5,1,3.4,Prepaid,0
+SYN-10293,Clothing,86.96,L,1,0,4.8,Prepaid,0
+SYN-10294,Shoes,53.59,XS,3,0,4.8,COD,1
+SYN-10295,Home,57.8,Not applicable,3,1,4.9,Prepaid,0
+SYN-10296,Electronics,88.67,Not applicable,4,0,4.4,COD,0
+SYN-10297,Clothing,42.29,M,4,4,4.2,Prepaid,0
+SYN-10298,Electronics,58.71,Not applicable,3,0,2.7,Prepaid,0
+SYN-10299,Shoes,39.79,M,1,1,4.4,COD,0
+SYN-10300,Shoes,67.16,XL,8,1,5.0,COD,1
+SYN-10301,Electronics,140.36,Not applicable,4,0,3.8,Prepaid,1
+SYN-10302,Shoes,98.85,L,3,0,4.4,Prepaid,0
+SYN-10303,Electronics,156.1,Not applicable,3,0,5.0,COD,0
+SYN-10304,Shoes,154.65,M,5,0,4.4,Prepaid,0
+SYN-10305,Clothing,59.96,S,4,1,5.0,COD,0
+SYN-10306,Shoes,61.9,XS,6,0,4.1,Prepaid,0
+SYN-10307,Clothing,58.57,M,2,0,3.5,COD,1
+SYN-10308,Clothing,96.31,M,5,2,4.8,Prepaid,1
+SYN-10309,Electronics,221.99,Not applicable,5,1,3.6,COD,0
+SYN-10310,Clothing,50.03,S,7,0,4.1,Prepaid,1
+SYN-10311,Home,123.19,Not applicable,2,2,3.5,COD,0
+SYN-10312,Electronics,199.22,Not applicable,5,0,3.5,Prepaid,0
+SYN-10313,Clothing,84.96,XS,4,0,3.4,Prepaid,0
+SYN-10314,Electronics,175.38,Not applicable,6,0,3.9,COD,1
+SYN-10315,Clothing,138.99,XXL,1,0,4.8,COD,0
+SYN-10316,Clothing,89.25,L,3,2,5.0,Prepaid,0
+SYN-10317,Shoes,77.33,S,8,0,4.3,Prepaid,0
+SYN-10318,Clothing,34.52,S,5,0,3.6,Prepaid,0
+SYN-10319,Shoes,85.86,L,10,0,4.7,COD,0
+SYN-10320,Electronics,214.06,Not applicable,5,0,3.3,COD,0
+SYN-10321,Home,42.58,Not applicable,3,0,4.3,Prepaid,0
+SYN-10322,Electronics,106.35,Not applicable,5,0,3.3,Prepaid,0
+SYN-10323,Home,86.32,Not applicable,2,0,3.1,Prepaid,0
+SYN-10324,Shoes,33.75,XL,4,0,4.9,Prepaid,0
+SYN-10325,Shoes,98.87,XS,2,0,3.7,Prepaid,0
+SYN-10326,Shoes,65.41,XL,4,0,3.7,COD,0
+SYN-10327,Electronics,75.56,Not applicable,5,4,4.5,COD,0
+SYN-10328,Clothing,54.67,XS,1,1,3.4,Prepaid,0
+SYN-10329,Clothing,38.73,M,3,1,4.7,Prepaid,0
+SYN-10330,Electronics,203.43,Not applicable,3,1,4.7,COD,0
+SYN-10331,Electronics,136.98,Not applicable,3,5,4.9,COD,0
+SYN-10332,Clothing,77.48,S,4,0,4.4,Prepaid,0
+SYN-10333,Electronics,159.71,Not applicable,4,0,4.5,COD,0
+SYN-10334,Shoes,55.22,M,2,0,3.4,Prepaid,0
+SYN-10335,Home,28.82,Not applicable,2,0,4.3,COD,0
+SYN-10336,Shoes,27.96,S,5,0,3.9,Prepaid,0
+SYN-10337,Home,46.45,Not applicable,4,3,3.2,COD,0
+SYN-10338,Electronics,96.21,Not applicable,8,2,5.0,COD,1
+SYN-10339,Clothing,102.38,L,1,1,5.0,COD,0
+SYN-10340,Home,70.84,Not applicable,1,0,5.0,Prepaid,0
+SYN-10341,Shoes,67.71,S,1,0,2.9,COD,0
+SYN-10342,Clothing,79.34,L,5,0,3.2,Prepaid,0
+SYN-10343,Home,97.82,Not applicable,7,1,5.0,Prepaid,0
+SYN-10344,Clothing,116.89,M,3,0,4.9,COD,0
+SYN-10345,Electronics,114.82,Not applicable,1,2,4.1,COD,0
+SYN-10346,Electronics,68.41,Not applicable,4,0,3.8,Prepaid,0
+SYN-10347,Shoes,61.5,M,8,0,5.0,COD,0
+SYN-10348,Electronics,144.06,Not applicable,5,0,2.2,COD,0
+SYN-10349,Clothing,53.48,S,5,0,4.5,Prepaid,0
+SYN-10350,Shoes,36.97,XS,4,2,4.9,Prepaid,1
+SYN-10351,Home,72.29,Not applicable,1,0,4.5,COD,0
+SYN-10352,Clothing,77.75,L,6,1,4.6,COD,0
+SYN-10353,Electronics,148.3,Not applicable,2,1,4.9,Prepaid,0
+SYN-10354,Shoes,33.62,L,6,2,5.0,Prepaid,0
+SYN-10355,Clothing,41.65,L,6,1,3.8,COD,0
+SYN-10356,Shoes,49.55,XS,5,1,3.8,Prepaid,0
+SYN-10357,Clothing,33.47,S,1,1,4.3,COD,0
+SYN-10358,Clothing,79.77,XXL,7,2,5.0,Prepaid,1
+SYN-10359,Electronics,154.27,Not applicable,5,0,3.1,COD,0
+SYN-10360,Home,86.76,Not applicable,4,0,2.9,COD,0
+SYN-10361,Clothing,266.5,M,4,0,4.4,Prepaid,0
+SYN-10362,Electronics,132.01,Not applicable,2,0,4.9,COD,0
+SYN-10363,Clothing,64.15,XL,4,0,3.8,Prepaid,0
+SYN-10364,Shoes,27.15,L,2,0,3.0,COD,1
+SYN-10365,Electronics,124.08,Not applicable,6,0,4.1,COD,0
+SYN-10366,Clothing,106.67,M,3,0,5.0,Prepaid,0
+SYN-10367,Shoes,119.48,S,3,0,5.0,Prepaid,0
+SYN-10368,Electronics,179.15,Not applicable,2,3,3.6,Prepaid,0
+SYN-10369,Shoes,93.73,L,6,0,3.9,Prepaid,0
+SYN-10370,Shoes,58.79,L,4,1,3.9,Prepaid,0
+SYN-10371,Electronics,258.47,Not applicable,2,0,5.0,COD,1
+SYN-10372,Electronics,120.14,Not applicable,8,1,4.4,Prepaid,0
+SYN-10373,Clothing,60.42,M,4,0,2.2,COD,1
+SYN-10374,Clothing,86.61,L,5,1,4.4,COD,1
+SYN-10375,Electronics,147.51,Not applicable,6,0,2.1,Prepaid,0
+SYN-10376,Clothing,132.22,L,4,1,4.9,Prepaid,0
+SYN-10377,Clothing,79.39,S,4,4,4.5,Prepaid,1
+SYN-10378,Clothing,51.26,XL,5,0,4.3,COD,0
+SYN-10379,Shoes,166.89,XL,6,0,4.8,COD,1
+SYN-10380,Clothing,43.11,XL,2,1,3.8,COD,0
+SYN-10381,Clothing,80.55,L,2,1,4.6,Prepaid,0
+SYN-10382,Clothing,46.47,M,3,2,5.0,COD,0
+SYN-10383,Shoes,134.44,S,3,1,4.4,Prepaid,0
+SYN-10384,Electronics,251.84,Not applicable,3,0,4.8,Prepaid,0
+SYN-10385,Home,86.83,Not applicable,6,0,3.6,Prepaid,0
+SYN-10386,Shoes,153.34,XL,5,0,2.9,Prepaid,0
+SYN-10387,Electronics,69.23,Not applicable,2,0,4.1,COD,0
+SYN-10388,Clothing,25.98,XL,1,3,5.0,Prepaid,1
+SYN-10389,Shoes,81.28,M,6,3,3.7,COD,0
+SYN-10390,Clothing,38.49,XXL,7,1,3.9,Prepaid,1
+SYN-10391,Clothing,104.09,S,4,0,4.9,COD,0
+SYN-10392,Electronics,224.5,Not applicable,9,0,2.5,Prepaid,1
+SYN-10393,Shoes,83.22,S,6,1,1.8,COD,0
+SYN-10394,Electronics,161.11,Not applicable,2,1,3.3,COD,1
+SYN-10395,Clothing,24.73,XL,4,4,3.0,COD,1
+SYN-10396,Shoes,97.38,M,5,1,4.0,Prepaid,0
+SYN-10397,Clothing,96.01,S,3,0,4.1,Prepaid,0
+SYN-10398,Electronics,223.56,Not applicable,2,1,3.0,COD,0
+SYN-10399,Electronics,162.38,Not applicable,1,0,3.2,Prepaid,0
+SYN-10400,Home,21.46,Not applicable,2,0,4.8,Prepaid,0
+SYN-10401,Shoes,108.62,L,6,0,3.5,Prepaid,1
+SYN-10402,Electronics,86.91,Not applicable,9,0,3.2,Prepaid,0
+SYN-10403,Electronics,122.67,Not applicable,1,0,3.9,Prepaid,1
+SYN-10404,Home,49.96,Not applicable,7,2,3.0,Prepaid,0
+SYN-10405,Electronics,134.08,Not applicable,4,0,3.3,COD,0
+SYN-10406,Clothing,89.96,S,4,0,3.1,COD,0
+SYN-10407,Electronics,64.45,Not applicable,3,0,4.5,Prepaid,0
+SYN-10408,Shoes,47.09,S,3,1,3.4,COD,0
+SYN-10409,Shoes,78.5,XL,3,1,2.4,Prepaid,1
+SYN-10410,Clothing,190.32,S,5,0,4.7,COD,0
+SYN-10411,Clothing,46.52,M,6,0,3.6,COD,0
+SYN-10412,Clothing,25.05,XL,3,0,3.3,COD,0
+SYN-10413,Clothing,65.09,L,2,1,2.9,COD,1
+SYN-10414,Clothing,53.52,L,3,0,2.7,COD,0
+SYN-10415,Clothing,77.11,M,3,0,2.9,COD,0
+SYN-10416,Home,36.55,Not applicable,7,0,4.1,Prepaid,0
+SYN-10417,Shoes,86.08,M,2,0,4.6,COD,0
+SYN-10418,Shoes,56.08,S,4,1,4.8,Prepaid,0
+SYN-10419,Clothing,81.71,XL,4,1,3.6,Prepaid,0
+SYN-10420,Home,53.98,Not applicable,3,2,3.8,Prepaid,0
+SYN-10421,Clothing,45.89,L,3,0,5.0,Prepaid,0
+SYN-10422,Clothing,72.55,L,4,0,4.4,Prepaid,0
+SYN-10423,Home,104.48,Not applicable,6,2,4.4,Prepaid,0
+SYN-10424,Home,75.57,Not applicable,5,6,3.3,Prepaid,0
+SYN-10425,Electronics,151.33,Not applicable,5,1,3.9,Prepaid,0
+SYN-10426,Clothing,58.58,XL,3,4,4.3,Prepaid,0
+SYN-10427,Electronics,104.75,Not applicable,2,0,4.2,Prepaid,1
+SYN-10428,Shoes,72.38,L,4,0,4.1,COD,0
+SYN-10429,Shoes,40.73,XL,5,1,4.5,Prepaid,1
+SYN-10430,Home,62.05,Not applicable,6,2,4.3,COD,0
+SYN-10431,Clothing,95.42,XL,4,1,4.3,COD,1
+SYN-10432,Clothing,43.67,M,5,1,4.4,COD,1
+SYN-10433,Shoes,45.68,XL,5,3,4.0,COD,1
+SYN-10434,Clothing,119.31,S,6,0,3.3,COD,0
+SYN-10435,Shoes,42.48,M,8,2,4.0,Prepaid,1
+SYN-10436,Clothing,36.38,L,2,0,2.4,Prepaid,0
+SYN-10437,Shoes,45.19,XS,5,0,2.3,COD,0
+SYN-10438,Electronics,243.97,Not applicable,6,2,4.0,COD,1
+SYN-10439,Clothing,96.31,S,3,1,5.0,COD,0
+SYN-10440,Shoes,71.53,L,6,0,4.7,Prepaid,0
+SYN-10441,Home,163.35,Not applicable,6,0,4.2,Prepaid,0
+SYN-10442,Shoes,77.86,M,7,0,2.7,Prepaid,1
+SYN-10443,Clothing,81.59,S,2,1,4.9,Prepaid,0
+SYN-10444,Clothing,161.64,L,5,0,4.0,Prepaid,0
+SYN-10445,Shoes,102.16,M,4,2,4.4,Prepaid,1
+SYN-10446,Shoes,86.07,M,4,0,3.4,COD,1
+SYN-10447,Clothing,85.87,M,4,1,3.6,Prepaid,1
+SYN-10448,Electronics,177.52,Not applicable,4,0,3.8,Prepaid,0
+SYN-10449,Clothing,75.74,XS,1,1,2.8,COD,0
+SYN-10450,Shoes,124.29,XXL,4,2,5.0,Prepaid,0
+SYN-10451,Clothing,43.87,M,7,1,4.8,Prepaid,0
+SYN-10452,Clothing,28.73,M,3,0,4.7,Prepaid,0
+SYN-10453,Home,83.87,Not applicable,4,0,4.8,Prepaid,0
+SYN-10454,Electronics,91.89,Not applicable,2,0,3.8,COD,0
+SYN-10455,Shoes,93.05,XL,3,0,4.3,COD,0
+SYN-10456,Clothing,62.46,S,4,2,5.0,Prepaid,0
+SYN-10457,Clothing,29.14,M,5,0,4.4,Prepaid,0
+SYN-10458,Electronics,137.53,Not applicable,4,0,3.0,Prepaid,0
+SYN-10459,Clothing,131.3,XS,2,2,2.5,Prepaid,1
+SYN-10460,Clothing,51.95,XS,1,0,4.4,Prepaid,0
+SYN-10461,Clothing,105.91,M,4,0,4.7,COD,0
+SYN-10462,Electronics,83.54,Not applicable,1,0,3.8,COD,0
+SYN-10463,Electronics,174.86,Not applicable,6,0,2.9,Prepaid,0
+SYN-10464,Shoes,92.1,XS,2,0,5.0,COD,0
+SYN-10465,Electronics,206.29,Not applicable,1,0,3.7,COD,0
+SYN-10466,Electronics,106.56,Not applicable,1,0,4.7,Prepaid,0
+SYN-10467,Clothing,33.2,XL,1,0,3.3,Prepaid,0
+SYN-10468,Electronics,194.22,Not applicable,4,0,3.4,Prepaid,0
+SYN-10469,Shoes,88.03,M,3,0,1.2,Prepaid,1
+SYN-10470,Shoes,129.03,XS,6,1,3.0,COD,1
+SYN-10471,Electronics,141.08,Not applicable,3,1,4.4,COD,0
+SYN-10472,Home,49.58,Not applicable,3,1,4.0,Prepaid,0
+SYN-10473,Clothing,72.44,M,4,2,2.3,COD,1
+SYN-10474,Shoes,62.8,L,4,0,2.9,Prepaid,0
+SYN-10475,Shoes,60.35,XXL,3,0,4.0,COD,0
+SYN-10476,Electronics,43.56,Not applicable,1,0,4.5,COD,0
+SYN-10477,Shoes,87.13,L,6,2,4.4,COD,1
+SYN-10478,Shoes,59.34,S,2,0,4.6,COD,0
+SYN-10479,Electronics,178.3,Not applicable,4,2,3.7,COD,1
+SYN-10480,Home,51.76,Not applicable,6,6,3.9,Prepaid,1
+SYN-10481,Shoes,71.98,XS,3,0,4.6,Prepaid,0
+SYN-10482,Clothing,33.09,XS,7,1,4.1,Prepaid,0
+SYN-10483,Shoes,76.19,S,4,0,5.0,COD,1
+SYN-10484,Shoes,63.91,XS,4,0,4.2,Prepaid,0
+SYN-10485,Shoes,50.23,XL,5,3,4.0,COD,1
+SYN-10486,Clothing,143.96,L,5,1,5.0,Prepaid,0
+SYN-10487,Shoes,94.36,M,5,0,3.2,COD,0
+SYN-10488,Electronics,123.34,Not applicable,6,2,4.1,COD,0
+SYN-10489,Clothing,78.96,M,6,0,4.5,Prepaid,0
+SYN-10490,Shoes,84.8,M,3,0,3.9,Prepaid,0
+SYN-10491,Clothing,143.84,XL,3,1,3.7,COD,0
+SYN-10492,Electronics,60.15,Not applicable,6,1,4.0,COD,0
+SYN-10493,Home,67.18,Not applicable,4,0,4.4,Prepaid,0
+SYN-10494,Electronics,234.28,Not applicable,3,0,3.4,Prepaid,0
+SYN-10495,Clothing,85.47,S,5,0,3.8,COD,0
+SYN-10496,Clothing,73.22,XL,4,1,4.8,Prepaid,0
+SYN-10497,Home,41.83,Not applicable,5,0,4.2,COD,0
+SYN-10498,Clothing,84.32,S,1,4,2.7,Prepaid,0
+SYN-10499,Shoes,124.07,M,3,0,4.3,Prepaid,1
+SYN-10500,Shoes,30.74,S,8,0,2.8,Prepaid,0
+SYN-10501,Electronics,167.24,Not applicable,7,0,2.3,COD,0
+SYN-10502,Clothing,63.16,L,5,0,4.1,COD,0
+SYN-10503,Home,68.81,Not applicable,3,0,4.8,Prepaid,0
+SYN-10504,Clothing,40.81,M,6,2,3.2,Prepaid,1
+SYN-10505,Electronics,150.37,Not applicable,7,2,3.6,Prepaid,0
+SYN-10506,Clothing,30.98,S,8,2,3.1,Prepaid,0
+SYN-10507,Electronics,202.28,Not applicable,5,1,5.0,Prepaid,0
+SYN-10508,Electronics,77.0,Not applicable,4,0,4.0,COD,0
+SYN-10509,Electronics,150.67,Not applicable,5,0,5.0,Prepaid,0
+SYN-10510,Shoes,32.43,S,2,2,4.1,COD,1
+SYN-10511,Electronics,221.22,Not applicable,1,1,3.2,COD,0
+SYN-10512,Clothing,129.6,XL,6,0,4.1,COD,0
+SYN-10513,Shoes,86.58,L,4,0,4.0,Prepaid,0
+SYN-10514,Shoes,58.23,L,3,4,3.5,Prepaid,1
+SYN-10515,Shoes,74.29,M,5,0,3.8,Prepaid,0
+SYN-10516,Home,69.42,Not applicable,4,0,3.9,COD,0
+SYN-10517,Home,108.15,Not applicable,6,0,3.9,Prepaid,0
+SYN-10518,Shoes,181.49,XXL,7,0,5.0,Prepaid,1
+SYN-10519,Clothing,60.31,M,6,0,3.6,COD,1
+SYN-10520,Clothing,42.78,M,6,0,4.4,COD,1
+SYN-10521,Electronics,120.91,Not applicable,6,0,3.2,COD,0
+SYN-10522,Clothing,72.03,XL,3,0,4.7,COD,0
+SYN-10523,Shoes,49.62,XS,7,0,3.5,Prepaid,0
+SYN-10524,Shoes,80.25,S,2,1,4.7,Prepaid,0
+SYN-10525,Shoes,108.93,L,2,3,3.5,Prepaid,0
+SYN-10526,Clothing,81.46,XXL,3,0,3.4,Prepaid,0
+SYN-10527,Home,52.15,Not applicable,6,2,3.7,Prepaid,1
+SYN-10528,Clothing,66.21,XL,5,0,3.8,Prepaid,0
+SYN-10529,Shoes,114.48,L,8,5,3.4,COD,1
+SYN-10530,Clothing,75.56,M,1,0,4.5,COD,0
+SYN-10531,Clothing,121.61,S,4,0,4.0,COD,1
+SYN-10532,Clothing,98.97,M,5,8,3.9,COD,1
+SYN-10533,Electronics,89.72,Not applicable,5,1,3.6,COD,1
+SYN-10534,Electronics,232.44,Not applicable,5,1,5.0,COD,0
+SYN-10535,Shoes,61.96,M,8,0,5.0,Prepaid,0
+SYN-10536,Electronics,82.56,Not applicable,7,0,4.2,Prepaid,0
+SYN-10537,Shoes,38.58,S,4,0,4.3,COD,0
+SYN-10538,Clothing,79.89,L,3,2,4.5,COD,1
+SYN-10539,Clothing,96.42,XL,4,0,4.9,Prepaid,1
+SYN-10540,Shoes,68.73,XL,8,3,3.7,Prepaid,1
+SYN-10541,Clothing,128.5,XL,4,0,4.6,COD,0
+SYN-10542,Electronics,144.48,Not applicable,8,7,5.0,Prepaid,0
+SYN-10543,Electronics,159.87,Not applicable,7,2,4.0,COD,0
+SYN-10544,Clothing,39.07,S,5,0,5.0,Prepaid,0
+SYN-10545,Electronics,67.94,Not applicable,2,0,4.6,Prepaid,1
+SYN-10546,Clothing,39.65,S,3,0,5.0,COD,1
+SYN-10547,Clothing,36.01,S,3,0,4.3,Prepaid,0
+SYN-10548,Electronics,127.22,Not applicable,5,0,4.4,Prepaid,0
+SYN-10549,Home,41.74,Not applicable,6,2,5.0,COD,1
+SYN-10550,Shoes,39.71,XS,5,0,3.9,Prepaid,0
+SYN-10551,Home,59.61,Not applicable,4,0,5.0,Prepaid,0
+SYN-10552,Shoes,79.33,M,3,0,2.2,Prepaid,0
+SYN-10553,Clothing,76.63,M,2,1,5.0,Prepaid,1
+SYN-10554,Home,80.11,Not applicable,4,1,4.1,Prepaid,0
+SYN-10555,Home,50.52,Not applicable,7,1,5.0,Prepaid,0
+SYN-10556,Clothing,34.47,XXL,3,0,3.4,COD,0
+SYN-10557,Electronics,92.53,Not applicable,6,1,4.1,Prepaid,1
+SYN-10558,Electronics,130.93,Not applicable,8,1,3.8,Prepaid,0
+SYN-10559,Home,100.04,Not applicable,4,0,3.5,Prepaid,0
+SYN-10560,Shoes,62.82,XXL,4,0,3.7,Prepaid,0
+SYN-10561,Home,81.21,Not applicable,3,2,4.1,Prepaid,0
+SYN-10562,Shoes,79.41,XS,7,0,4.7,Prepaid,0
+SYN-10563,Home,54.76,Not applicable,4,0,3.6,COD,0
+SYN-10564,Clothing,65.18,S,3,2,3.3,Prepaid,0
+SYN-10565,Shoes,88.15,L,6,1,3.7,Prepaid,0
+SYN-10566,Home,65.99,Not applicable,5,1,3.6,COD,0
+SYN-10567,Home,42.26,Not applicable,3,0,3.0,COD,0
+SYN-10568,Home,72.68,Not applicable,3,0,2.6,COD,1
+SYN-10569,Clothing,42.55,L,2,0,5.0,Prepaid,0
+SYN-10570,Electronics,193.68,Not applicable,1,0,5.0,COD,0
+SYN-10571,Clothing,114.13,L,8,0,3.4,COD,0
+SYN-10572,Shoes,65.41,L,2,0,3.4,COD,0
+SYN-10573,Electronics,108.62,Not applicable,4,0,4.0,COD,0
+SYN-10574,Home,66.42,Not applicable,5,0,4.2,COD,0
+SYN-10575,Electronics,70.58,Not applicable,3,1,3.8,Prepaid,0
+SYN-10576,Shoes,72.08,M,3,1,3.0,COD,1
+SYN-10577,Clothing,32.07,M,6,0,3.7,Prepaid,0
+SYN-10578,Electronics,146.02,Not applicable,5,1,4.9,COD,0
+SYN-10579,Electronics,92.06,Not applicable,1,0,5.0,Prepaid,1
+SYN-10580,Clothing,23.98,M,5,0,3.8,Prepaid,1
+SYN-10581,Clothing,49.93,M,5,0,4.9,COD,1
+SYN-10582,Electronics,255.83,Not applicable,6,0,3.7,Prepaid,0
+SYN-10583,Clothing,117.76,S,4,0,3.4,COD,0
+SYN-10584,Shoes,70.89,S,5,0,3.8,COD,0
+SYN-10585,Electronics,209.33,Not applicable,7,0,4.9,COD,0
+SYN-10586,Home,75.24,Not applicable,8,0,4.3,Prepaid,0
+SYN-10587,Clothing,81.16,S,3,0,3.9,COD,0
+SYN-10588,Home,33.99,Not applicable,4,4,3.8,COD,1
+SYN-10589,Shoes,76.36,L,5,0,2.6,Prepaid,0
+SYN-10590,Clothing,38.02,L,2,0,4.6,Prepaid,0
+SYN-10591,Home,68.91,Not applicable,7,2,3.8,COD,1
+SYN-10592,Electronics,145.24,Not applicable,3,1,2.6,COD,0
+SYN-10593,Electronics,76.06,Not applicable,4,1,4.0,Prepaid,0
+SYN-10594,Home,80.89,Not applicable,6,0,4.4,COD,1
+SYN-10595,Clothing,45.04,S,3,0,3.1,Prepaid,1
+SYN-10596,Home,44.98,Not applicable,5,0,5.0,Prepaid,0
+SYN-10597,Clothing,59.22,XS,4,0,3.0,Prepaid,0
+SYN-10598,Clothing,37.85,XL,1,2,5.0,Prepaid,0
+SYN-10599,Clothing,37.04,L,3,0,5.0,Prepaid,0
+SYN-10600,Shoes,122.05,L,5,1,4.3,COD,0
+SYN-10601,Electronics,195.09,Not applicable,5,1,4.8,COD,0
+SYN-10602,Shoes,185.56,S,4,1,3.2,Prepaid,0
+SYN-10603,Clothing,33.33,XXL,4,0,3.4,COD,0
+SYN-10604,Shoes,101.06,XL,8,1,3.0,Prepaid,0
+SYN-10605,Electronics,146.19,Not applicable,1,0,3.7,COD,0
+SYN-10606,Electronics,184.33,Not applicable,2,0,4.3,COD,0
+SYN-10607,Shoes,63.67,XS,7,0,4.3,Prepaid,0
+SYN-10608,Shoes,54.66,S,6,0,3.9,Prepaid,0
+SYN-10609,Home,102.22,Not applicable,4,0,3.3,Prepaid,0
+SYN-10610,Electronics,133.12,Not applicable,1,0,3.4,COD,0
+SYN-10611,Electronics,92.12,Not applicable,5,1,5.0,Prepaid,1
+SYN-10612,Shoes,95.96,S,5,0,5.0,COD,0
+SYN-10613,Home,50.53,Not applicable,7,0,4.4,Prepaid,0
+SYN-10614,Electronics,34.5,Not applicable,1,0,3.4,COD,0
+SYN-10615,Electronics,114.16,Not applicable,4,2,3.7,COD,0
+SYN-10616,Shoes,65.36,XS,2,0,2.3,Prepaid,0
+SYN-10617,Electronics,61.4,Not applicable,2,2,3.9,Prepaid,0
+SYN-10618,Clothing,224.94,XS,4,1,4.6,COD,0
+SYN-10619,Shoes,51.04,M,3,0,4.7,COD,0
+SYN-10620,Electronics,86.43,Not applicable,6,0,3.7,Prepaid,0
+SYN-10621,Clothing,56.1,M,5,0,2.2,Prepaid,0
+SYN-10622,Clothing,90.22,XS,4,0,2.9,COD,1
+SYN-10623,Clothing,92.56,L,4,0,1.9,Prepaid,0
+SYN-10624,Electronics,98.29,Not applicable,2,1,4.4,Prepaid,0
+SYN-10625,Electronics,134.1,Not applicable,5,2,4.3,COD,0
+SYN-10626,Shoes,54.05,L,4,0,3.3,Prepaid,0
+SYN-10627,Shoes,57.29,S,5,3,3.3,COD,1
+SYN-10628,Shoes,57.11,XL,2,0,3.5,Prepaid,0
+SYN-10629,Clothing,44.76,L,8,0,5.0,Prepaid,0
+SYN-10630,Home,67.83,Not applicable,5,1,5.0,COD,0
+SYN-10631,Electronics,141.26,Not applicable,4,0,3.7,COD,0
+SYN-10632,Clothing,94.09,XS,6,2,4.0,Prepaid,0
+SYN-10633,Shoes,134.11,S,6,0,4.2,Prepaid,0
+SYN-10634,Shoes,45.25,L,1,0,4.2,COD,0
+SYN-10635,Shoes,40.63,XS,8,0,4.8,Prepaid,0
+SYN-10636,Home,150.52,Not applicable,3,1,4.4,COD,1
+SYN-10637,Electronics,155.78,Not applicable,2,1,4.7,Prepaid,1
+SYN-10638,Electronics,61.45,Not applicable,2,0,4.2,Prepaid,0
+SYN-10639,Clothing,73.07,XL,4,0,3.3,COD,0
+SYN-10640,Shoes,53.77,M,3,0,2.9,Prepaid,1
+SYN-10641,Shoes,158.22,M,3,0,3.4,COD,1
+SYN-10642,Electronics,61.83,Not applicable,5,0,4.3,COD,0
+SYN-10643,Clothing,32.88,L,4,2,5.0,Prepaid,0
+SYN-10644,Clothing,97.93,XXL,4,0,5.0,Prepaid,0
+SYN-10645,Shoes,56.14,L,6,1,4.6,COD,1
+SYN-10646,Electronics,142.98,Not applicable,1,0,3.9,COD,0
+SYN-10647,Shoes,76.7,M,2,1,4.7,COD,0
+SYN-10648,Electronics,110.3,Not applicable,1,1,4.3,COD,1
+SYN-10649,Clothing,60.03,M,3,0,4.3,Prepaid,0
+SYN-10650,Shoes,82.59,M,3,1,5.0,Prepaid,1
+SYN-10651,Electronics,134.34,Not applicable,6,0,4.4,Prepaid,0
+SYN-10652,Shoes,78.6,S,4,0,4.5,Prepaid,0
+SYN-10653,Home,78.11,Not applicable,5,0,3.5,COD,0
+SYN-10654,Shoes,25.99,XXL,6,5,4.5,Prepaid,1
+SYN-10655,Electronics,119.38,Not applicable,4,0,4.7,Prepaid,0
+SYN-10656,Home,58.56,Not applicable,7,0,4.7,COD,0
+SYN-10657,Clothing,73.18,L,1,0,3.2,COD,0
+SYN-10658,Clothing,95.7,M,2,1,2.7,COD,1
+SYN-10659,Electronics,113.75,Not applicable,4,0,4.0,Prepaid,0
+SYN-10660,Shoes,84.65,L,4,0,5.0,COD,0
+SYN-10661,Electronics,182.51,Not applicable,7,2,3.3,Prepaid,0
+SYN-10662,Clothing,32.54,XL,7,0,3.7,COD,0
+SYN-10663,Clothing,59.48,M,6,0,3.4,Prepaid,0
+SYN-10664,Shoes,85.94,S,3,0,4.3,COD,1
+SYN-10665,Electronics,209.99,Not applicable,3,0,4.9,Prepaid,0
+SYN-10666,Clothing,75.22,XL,2,1,3.3,Prepaid,0
+SYN-10667,Home,37.39,Not applicable,1,2,4.5,COD,0
+SYN-10668,Shoes,64.02,M,5,1,4.3,Prepaid,0
+SYN-10669,Home,191.43,Not applicable,3,0,3.7,COD,1
+SYN-10670,Home,47.13,Not applicable,3,2,4.6,Prepaid,0
+SYN-10671,Shoes,91.41,L,4,0,3.6,Prepaid,0
+SYN-10672,Home,58.16,Not applicable,6,0,4.5,Prepaid,0
+SYN-10673,Home,79.02,Not applicable,2,1,3.3,COD,0
+SYN-10674,Electronics,72.3,Not applicable,5,1,4.0,COD,0
+SYN-10675,Electronics,117.47,Not applicable,2,0,4.0,COD,1
+SYN-10676,Clothing,49.84,S,4,3,3.9,COD,0
+SYN-10677,Clothing,37.25,XS,4,0,4.6,Prepaid,0
+SYN-10678,Shoes,139.23,M,4,3,4.4,Prepaid,1
+SYN-10679,Electronics,182.14,Not applicable,4,0,3.4,Prepaid,0
+SYN-10680,Clothing,52.1,S,1,0,4.7,Prepaid,0
+SYN-10681,Home,105.77,Not applicable,8,1,4.6,Prepaid,0
+SYN-10682,Shoes,62.17,XS,1,0,4.3,Prepaid,0
+SYN-10683,Electronics,72.21,Not applicable,4,0,3.6,COD,1
+SYN-10684,Clothing,59.5,M,2,3,3.6,COD,0
+SYN-10685,Home,66.37,Not applicable,6,0,3.4,COD,0
+SYN-10686,Shoes,43.43,M,2,0,5.0,Prepaid,0
+SYN-10687,Clothing,140.12,L,4,2,5.0,Prepaid,0
+SYN-10688,Home,37.82,Not applicable,3,0,5.0,Prepaid,0
+SYN-10689,Shoes,71.4,M,3,3,4.2,Prepaid,0
+SYN-10690,Electronics,123.89,Not applicable,1,0,3.2,COD,0
+SYN-10691,Electronics,127.57,Not applicable,5,0,4.1,Prepaid,0
+SYN-10692,Clothing,111.47,S,7,3,1.6,Prepaid,1
+SYN-10693,Shoes,65.94,S,5,3,4.3,Prepaid,0
+SYN-10694,Home,61.8,Not applicable,5,1,3.5,Prepaid,0
+SYN-10695,Shoes,97.69,XXL,6,2,5.0,Prepaid,0
+SYN-10696,Electronics,102.73,Not applicable,6,0,5.0,COD,0
+SYN-10697,Electronics,149.0,Not applicable,6,0,4.0,Prepaid,0
+SYN-10698,Shoes,91.14,M,2,1,4.0,Prepaid,0
+SYN-10699,Home,63.68,Not applicable,3,0,3.3,COD,1
+SYN-10700,Clothing,36.96,XXL,3,1,4.5,COD,0
+SYN-10701,Shoes,34.75,S,7,0,4.2,COD,0
+SYN-10702,Electronics,152.98,Not applicable,5,0,5.0,COD,0
+SYN-10703,Home,115.07,Not applicable,2,1,4.7,Prepaid,0
+SYN-10704,Clothing,55.1,M,6,0,5.0,COD,1
+SYN-10705,Shoes,131.83,M,1,2,3.4,COD,1
+SYN-10706,Electronics,83.39,Not applicable,2,0,4.7,COD,0
+SYN-10707,Clothing,70.33,S,6,0,5.0,COD,0
+SYN-10708,Clothing,59.85,L,5,8,4.6,Prepaid,0
+SYN-10709,Home,41.7,Not applicable,4,3,3.9,Prepaid,1
+SYN-10710,Clothing,139.89,XS,4,0,3.8,COD,1
+SYN-10711,Clothing,39.2,S,4,0,5.0,COD,0
+SYN-10712,Electronics,108.21,Not applicable,1,0,4.6,Prepaid,0
+SYN-10713,Electronics,185.76,Not applicable,4,0,4.4,COD,0
+SYN-10714,Clothing,87.62,XL,3,0,3.4,Prepaid,1
+SYN-10715,Electronics,108.64,Not applicable,6,0,3.2,COD,0
+SYN-10716,Shoes,43.29,L,6,0,4.8,COD,1
+SYN-10717,Electronics,132.04,Not applicable,3,3,3.3,Prepaid,0
+SYN-10718,Electronics,159.99,Not applicable,8,0,3.1,COD,0
+SYN-10719,Electronics,142.65,Not applicable,5,1,3.5,Prepaid,1
+SYN-10720,Electronics,154.91,Not applicable,1,1,4.3,COD,0
+SYN-10721,Clothing,78.62,S,4,0,4.6,COD,0
+SYN-10722,Shoes,204.18,XXL,5,1,2.7,COD,0
+SYN-10723,Clothing,65.23,M,5,0,2.2,Prepaid,1
+SYN-10724,Shoes,65.29,XS,6,0,3.8,Prepaid,1
+SYN-10725,Shoes,42.23,XL,5,2,4.0,COD,0
+SYN-10726,Shoes,57.26,S,2,0,4.0,Prepaid,0
+SYN-10727,Electronics,97.46,Not applicable,8,1,3.1,COD,1
+SYN-10728,Shoes,25.08,S,5,0,3.5,Prepaid,0
+SYN-10729,Electronics,127.04,Not applicable,4,2,4.3,Prepaid,0
+SYN-10730,Electronics,145.4,Not applicable,4,3,3.8,COD,1
+SYN-10731,Electronics,71.34,Not applicable,4,2,3.7,COD,1
+SYN-10732,Clothing,87.65,L,4,1,3.7,Prepaid,0
+SYN-10733,Clothing,115.62,L,4,0,4.6,Prepaid,0
+SYN-10734,Shoes,56.65,XXL,6,2,3.3,COD,1
+SYN-10735,Clothing,45.38,M,5,0,4.2,Prepaid,0
+SYN-10736,Shoes,99.4,XXL,5,4,2.0,Prepaid,1
+SYN-10737,Clothing,64.27,L,5,1,2.6,Prepaid,0
+SYN-10738,Shoes,51.67,XS,1,1,3.4,Prepaid,0
+SYN-10739,Shoes,42.27,M,3,0,5.0,COD,0
+SYN-10740,Shoes,36.72,L,5,0,4.3,COD,0
+SYN-10741,Electronics,128.97,Not applicable,3,1,3.6,Prepaid,0
+SYN-10742,Electronics,135.97,Not applicable,2,1,3.5,Prepaid,0
+SYN-10743,Shoes,34.29,XXL,3,3,4.2,Prepaid,0
+SYN-10744,Electronics,284.43,Not applicable,4,0,3.6,COD,0
+SYN-10745,Clothing,68.94,L,1,0,5.0,COD,0
+SYN-10746,Home,88.46,Not applicable,1,0,2.9,COD,1
+SYN-10747,Electronics,115.19,Not applicable,3,0,4.7,COD,0
+SYN-10748,Electronics,122.26,Not applicable,2,1,2.6,COD,1
+SYN-10749,Clothing,108.01,M,3,1,4.0,COD,1
+SYN-10750,Clothing,45.29,L,6,0,5.0,Prepaid,0
+SYN-10751,Shoes,46.87,L,3,0,4.4,Prepaid,0
+SYN-10752,Electronics,117.77,Not applicable,8,1,4.2,Prepaid,0
+SYN-10753,Shoes,49.76,S,2,1,4.3,Prepaid,0
+SYN-10754,Clothing,63.32,XL,7,1,4.8,Prepaid,0
+SYN-10755,Clothing,88.42,M,5,2,3.8,COD,0
+SYN-10756,Home,31.2,Not applicable,7,3,4.7,COD,0
+SYN-10757,Clothing,80.74,M,2,2,5.0,Prepaid,0
+SYN-10758,Shoes,114.14,L,4,1,3.0,Prepaid,1
+SYN-10759,Shoes,89.19,M,4,3,5.0,COD,0
+SYN-10760,Shoes,35.39,M,4,1,2.7,Prepaid,0
+SYN-10761,Shoes,102.39,S,3,0,4.2,COD,1
+SYN-10762,Shoes,94.08,S,5,0,4.4,COD,1
+SYN-10763,Electronics,165.32,Not applicable,1,4,3.5,Prepaid,0
+SYN-10764,Shoes,56.3,S,7,0,4.6,Prepaid,0
+SYN-10765,Clothing,61.45,XS,3,1,4.3,COD,0
+SYN-10766,Shoes,57.38,XS,1,0,4.8,Prepaid,0
+SYN-10767,Shoes,90.36,XS,4,1,3.6,Prepaid,1
+SYN-10768,Clothing,93.03,M,1,0,4.2,Prepaid,1
+SYN-10769,Shoes,41.45,M,6,1,4.7,Prepaid,0
+SYN-10770,Shoes,96.22,L,3,2,4.0,COD,1
+SYN-10771,Clothing,72.93,XS,2,0,3.4,Prepaid,1
+SYN-10772,Clothing,41.77,M,3,0,4.6,COD,1
+SYN-10773,Shoes,95.95,S,1,0,2.9,COD,0
+SYN-10774,Electronics,93.0,Not applicable,3,1,4.0,COD,0
+SYN-10775,Home,40.37,Not applicable,4,0,4.0,Prepaid,0
+SYN-10776,Electronics,197.35,Not applicable,3,3,4.0,Prepaid,0
+SYN-10777,Shoes,53.57,L,8,2,4.3,COD,0
+SYN-10778,Shoes,37.53,M,2,1,3.1,Prepaid,0
+SYN-10779,Shoes,96.51,L,3,1,5.0,Prepaid,0
+SYN-10780,Shoes,64.15,M,1,1,4.3,Prepaid,0
+SYN-10781,Clothing,39.81,L,5,0,2.7,Prepaid,0
+SYN-10782,Electronics,75.77,Not applicable,1,1,3.9,COD,0
+SYN-10783,Clothing,65.26,M,1,1,4.2,COD,0
+SYN-10784,Clothing,53.47,M,2,1,2.8,Prepaid,1
+SYN-10785,Shoes,120.15,M,3,0,4.9,COD,0
+SYN-10786,Electronics,230.12,Not applicable,6,0,5.0,COD,0
+SYN-10787,Shoes,149.04,L,4,0,2.1,COD,0
+SYN-10788,Shoes,44.17,L,4,0,4.3,Prepaid,0
+SYN-10789,Home,71.06,Not applicable,7,0,3.3,Prepaid,1
+SYN-10790,Shoes,63.92,S,3,0,2.7,COD,1
+SYN-10791,Home,72.7,Not applicable,3,0,4.1,COD,1
+SYN-10792,Home,93.62,Not applicable,1,0,4.2,COD,0
+SYN-10793,Home,75.83,Not applicable,4,1,5.0,Prepaid,0
+SYN-10794,Clothing,56.88,L,4,3,4.5,COD,1
+SYN-10795,Electronics,153.84,Not applicable,3,0,3.0,Prepaid,0
+SYN-10796,Clothing,59.05,S,4,0,5.0,COD,0
+SYN-10797,Electronics,111.6,Not applicable,6,5,4.3,Prepaid,1
+SYN-10798,Electronics,92.88,Not applicable,7,2,4.3,Prepaid,0
+SYN-10799,Electronics,102.17,Not applicable,1,0,3.1,Prepaid,0
+SYN-10800,Electronics,174.04,Not applicable,3,0,4.0,COD,0
+SYN-10801,Electronics,124.02,Not applicable,1,0,4.2,COD,1
+SYN-10802,Clothing,100.54,S,1,1,4.6,Prepaid,1
+SYN-10803,Home,36.64,Not applicable,3,0,4.3,Prepaid,0
+SYN-10804,Home,48.68,Not applicable,1,0,3.1,Prepaid,0
+SYN-10805,Electronics,135.81,Not applicable,4,2,4.1,Prepaid,1
+SYN-10806,Home,97.39,Not applicable,2,0,4.3,Prepaid,0
+SYN-10807,Clothing,93.18,L,7,1,3.5,COD,1
+SYN-10808,Clothing,75.33,L,4,3,4.3,COD,1
+SYN-10809,Electronics,83.18,Not applicable,1,0,4.1,COD,0
+SYN-10810,Shoes,49.62,XXL,2,0,4.6,COD,1
+SYN-10811,Shoes,65.98,S,4,4,4.6,COD,0
+SYN-10812,Electronics,111.63,Not applicable,2,1,3.3,COD,0
+SYN-10813,Electronics,152.91,Not applicable,4,1,3.7,Prepaid,0
+SYN-10814,Electronics,237.41,Not applicable,6,1,3.6,COD,1
+SYN-10815,Electronics,137.03,Not applicable,3,4,3.8,Prepaid,0
+SYN-10816,Clothing,51.42,XL,4,0,5.0,Prepaid,0
+SYN-10817,Clothing,42.49,L,9,1,4.7,Prepaid,1
+SYN-10818,Shoes,70.85,XS,1,3,4.5,Prepaid,0
+SYN-10819,Clothing,122.66,L,2,0,4.9,COD,0
+SYN-10820,Electronics,95.45,Not applicable,7,1,5.0,Prepaid,0
+SYN-10821,Clothing,38.84,L,4,0,3.2,Prepaid,0
+SYN-10822,Electronics,134.83,Not applicable,4,1,4.0,COD,0
+SYN-10823,Shoes,35.65,M,7,0,4.1,COD,0
+SYN-10824,Clothing,50.27,S,2,2,2.9,COD,0
+SYN-10825,Shoes,63.72,S,8,2,3.5,Prepaid,1
+SYN-10826,Shoes,44.75,M,6,0,3.3,Prepaid,0
+SYN-10827,Electronics,97.15,Not applicable,7,0,4.3,Prepaid,0
+SYN-10828,Clothing,39.14,S,5,0,4.9,Prepaid,0
+SYN-10829,Electronics,146.43,Not applicable,5,1,4.3,Prepaid,1
+SYN-10830,Electronics,146.29,Not applicable,7,0,5.0,Prepaid,0
+SYN-10831,Shoes,73.98,XS,6,2,3.2,COD,1
+SYN-10832,Shoes,101.23,S,3,4,2.7,COD,1
+SYN-10833,Clothing,84.82,XXL,7,2,5.0,Prepaid,0
+SYN-10834,Electronics,171.63,Not applicable,4,0,3.1,COD,0
+SYN-10835,Shoes,100.46,L,4,0,3.2,Prepaid,0
+SYN-10836,Electronics,88.45,Not applicable,2,0,4.1,Prepaid,0
+SYN-10837,Clothing,78.72,L,5,0,3.5,COD,1
+SYN-10838,Shoes,107.32,M,6,2,4.0,COD,1
+SYN-10839,Electronics,115.92,Not applicable,3,2,4.3,Prepaid,1
+SYN-10840,Clothing,44.87,XL,3,2,3.8,Prepaid,0
+SYN-10841,Shoes,130.17,XXL,4,0,5.0,COD,1
+SYN-10842,Shoes,93.65,XL,2,0,4.1,Prepaid,1
+SYN-10843,Clothing,30.83,M,4,1,3.0,COD,0
+SYN-10844,Clothing,73.51,M,2,1,3.0,COD,0
+SYN-10845,Shoes,117.88,L,5,1,3.3,Prepaid,0
+SYN-10846,Clothing,56.63,M,4,0,2.5,Prepaid,1
+SYN-10847,Home,36.87,Not applicable,3,1,3.9,Prepaid,0
+SYN-10848,Shoes,60.58,S,4,0,3.7,Prepaid,0
+SYN-10849,Clothing,86.84,XS,2,1,4.4,Prepaid,0
+SYN-10850,Electronics,147.47,Not applicable,5,0,3.0,COD,0
+SYN-10851,Shoes,80.89,XS,4,0,5.0,Prepaid,0
+SYN-10852,Home,168.04,Not applicable,6,3,4.5,Prepaid,1
+SYN-10853,Electronics,123.65,Not applicable,1,0,4.4,Prepaid,0
+SYN-10854,Electronics,130.36,Not applicable,4,1,5.0,COD,0
+SYN-10855,Home,61.64,Not applicable,6,1,3.8,COD,1
+SYN-10856,Shoes,99.54,XS,3,0,3.4,COD,0
+SYN-10857,Clothing,182.27,M,6,0,4.7,Prepaid,0
+SYN-10858,Electronics,292.91,Not applicable,1,0,4.1,Prepaid,1
+SYN-10859,Clothing,28.16,L,5,4,4.8,COD,1
+SYN-10860,Clothing,60.82,M,6,1,3.4,Prepaid,0
+SYN-10861,Electronics,128.18,Not applicable,3,2,3.0,Prepaid,0
+SYN-10862,Electronics,119.22,Not applicable,6,0,3.7,Prepaid,0
+SYN-10863,Clothing,92.29,M,7,0,3.4,COD,0
+SYN-10864,Clothing,63.89,M,2,1,2.2,COD,1
+SYN-10865,Clothing,168.84,M,1,0,4.5,Prepaid,0
+SYN-10866,Electronics,163.16,Not applicable,3,2,4.0,Prepaid,1
+SYN-10867,Home,84.67,Not applicable,4,0,4.4,COD,1
+SYN-10868,Clothing,75.27,S,3,1,3.7,Prepaid,0
+SYN-10869,Shoes,55.85,XL,4,1,3.8,Prepaid,0
+SYN-10870,Clothing,24.33,XL,4,0,3.6,Prepaid,0
+SYN-10871,Home,50.11,Not applicable,4,0,3.2,COD,0
+SYN-10872,Shoes,112.24,S,2,1,3.1,Prepaid,0
+SYN-10873,Shoes,82.48,XL,5,0,4.0,Prepaid,0
+SYN-10874,Home,52.77,Not applicable,3,1,3.5,Prepaid,0
+SYN-10875,Home,45.66,Not applicable,1,1,4.2,COD,0
+SYN-10876,Electronics,157.98,Not applicable,3,2,4.7,Prepaid,0
+SYN-10877,Shoes,109.67,L,5,0,3.8,Prepaid,0
+SYN-10878,Electronics,111.91,Not applicable,5,0,3.0,COD,0
+SYN-10879,Home,37.17,Not applicable,6,0,3.8,COD,0
+SYN-10880,Shoes,33.08,S,4,1,4.0,Prepaid,0
+SYN-10881,Home,51.74,Not applicable,4,0,4.7,COD,1
+SYN-10882,Electronics,184.51,Not applicable,4,1,3.6,Prepaid,0
+SYN-10883,Shoes,104.27,S,4,0,4.2,Prepaid,0
+SYN-10884,Electronics,135.2,Not applicable,4,0,3.8,Prepaid,0
+SYN-10885,Electronics,177.93,Not applicable,5,0,3.5,Prepaid,0
+SYN-10886,Clothing,81.58,S,2,6,3.6,COD,1
+SYN-10887,Home,78.52,Not applicable,5,0,4.5,COD,1
+SYN-10888,Home,58.5,Not applicable,5,0,3.5,COD,0
+SYN-10889,Clothing,48.49,XL,2,1,4.1,Prepaid,0
+SYN-10890,Clothing,64.77,XL,3,4,4.7,Prepaid,0
+SYN-10891,Shoes,34.89,M,1,0,3.2,COD,0
+SYN-10892,Clothing,25.47,M,4,0,3.7,COD,0
+SYN-10893,Electronics,105.05,Not applicable,4,0,3.5,COD,0
+SYN-10894,Electronics,134.32,Not applicable,3,1,4.1,Prepaid,0
+SYN-10895,Electronics,251.6,Not applicable,4,1,4.2,Prepaid,0
+SYN-10896,Clothing,52.81,L,6,1,4.5,Prepaid,0
+SYN-10897,Electronics,180.47,Not applicable,5,0,5.0,Prepaid,0
+SYN-10898,Home,138.96,Not applicable,5,1,4.5,COD,0
+SYN-10899,Clothing,27.38,S,6,0,5.0,Prepaid,0
+SYN-10900,Clothing,78.48,M,3,1,2.2,Prepaid,0
+SYN-10901,Electronics,92.53,Not applicable,8,0,3.3,Prepaid,0
+SYN-10902,Electronics,116.68,Not applicable,1,0,4.5,Prepaid,0
+SYN-10903,Home,91.82,Not applicable,1,4,4.3,Prepaid,1
+SYN-10904,Home,91.15,Not applicable,4,1,4.2,COD,0
+SYN-10905,Clothing,90.55,XXL,6,0,3.8,Prepaid,1
+SYN-10906,Home,108.83,Not applicable,4,0,4.2,Prepaid,1
+SYN-10907,Clothing,73.27,M,1,1,4.6,Prepaid,0
+SYN-10908,Shoes,71.11,S,1,0,2.9,Prepaid,1
+SYN-10909,Home,29.5,Not applicable,1,1,3.5,COD,0
+SYN-10910,Clothing,96.72,S,4,0,2.9,COD,0
+SYN-10911,Electronics,75.49,Not applicable,3,0,3.8,COD,0
+SYN-10912,Electronics,182.01,Not applicable,8,0,3.2,COD,1
+SYN-10913,Home,39.85,Not applicable,4,0,3.8,COD,0
+SYN-10914,Electronics,133.39,Not applicable,6,2,3.3,Prepaid,0
+SYN-10915,Clothing,69.33,L,4,1,4.8,COD,0
+SYN-10916,Shoes,83.02,M,5,2,5.0,Prepaid,1
+SYN-10917,Shoes,96.43,XXL,6,2,5.0,Prepaid,0
+SYN-10918,Electronics,87.13,Not applicable,8,0,5.0,Prepaid,0
+SYN-10919,Clothing,88.33,XL,4,1,4.5,COD,0
+SYN-10920,Clothing,103.44,M,2,0,4.5,Prepaid,0
+SYN-10921,Shoes,75.45,M,3,1,3.5,Prepaid,0
+SYN-10922,Clothing,59.57,M,10,0,4.2,Prepaid,0
+SYN-10923,Shoes,77.63,L,4,0,3.8,COD,0
+SYN-10924,Home,86.43,Not applicable,7,0,3.6,Prepaid,0
+SYN-10925,Shoes,152.02,M,1,2,5.0,Prepaid,0
+SYN-10926,Shoes,125.92,XL,5,0,3.3,Prepaid,0
+SYN-10927,Electronics,139.81,Not applicable,4,0,3.8,COD,1
+SYN-10928,Shoes,46.65,L,5,1,3.0,Prepaid,0
+SYN-10929,Clothing,83.38,XS,2,0,4.2,Prepaid,1
+SYN-10930,Shoes,41.07,L,5,0,4.9,Prepaid,0
+SYN-10931,Clothing,45.07,XL,6,2,4.6,Prepaid,1
+SYN-10932,Clothing,92.39,L,5,0,3.8,COD,1
+SYN-10933,Clothing,116.57,S,6,2,4.4,COD,1
+SYN-10934,Shoes,45.31,XS,5,1,3.7,COD,1
+SYN-10935,Clothing,66.39,M,6,1,3.8,Prepaid,0
+SYN-10936,Home,52.4,Not applicable,4,0,3.6,Prepaid,0
+SYN-10937,Home,91.65,Not applicable,3,1,3.5,COD,0
+SYN-10938,Electronics,143.93,Not applicable,5,0,2.8,Prepaid,0
+SYN-10939,Shoes,52.25,S,4,1,4.2,COD,1
+SYN-10940,Clothing,170.11,S,6,1,5.0,Prepaid,0
+SYN-10941,Shoes,37.95,XXL,3,1,4.4,COD,1
+SYN-10942,Clothing,123.49,S,7,0,4.0,COD,1
+SYN-10943,Home,136.06,Not applicable,2,0,4.8,COD,0
+SYN-10944,Clothing,74.1,XS,2,3,3.8,Prepaid,0
+SYN-10945,Shoes,66.72,XL,7,0,4.8,COD,0
+SYN-10946,Electronics,189.59,Not applicable,3,0,4.5,COD,0
+SYN-10947,Shoes,78.58,XL,7,0,3.1,Prepaid,0
+SYN-10948,Shoes,64.87,XS,3,2,4.6,COD,0
+SYN-10949,Shoes,44.26,S,3,3,4.6,Prepaid,0
+SYN-10950,Clothing,102.01,S,4,2,4.0,Prepaid,0
+SYN-10951,Shoes,148.01,M,7,1,4.6,Prepaid,0
+SYN-10952,Home,35.26,Not applicable,3,0,3.8,COD,1
+SYN-10953,Clothing,64.88,S,5,0,4.3,COD,0
+SYN-10954,Electronics,133.01,Not applicable,5,0,4.9,COD,0
+SYN-10955,Clothing,105.55,XXL,3,1,3.9,Prepaid,0
+SYN-10956,Clothing,60.89,M,3,0,2.0,Prepaid,0
+SYN-10957,Home,103.89,Not applicable,6,1,4.0,COD,0
+SYN-10958,Electronics,154.09,Not applicable,4,1,5.0,COD,0
+SYN-10959,Clothing,130.24,XL,3,0,3.3,COD,0
+SYN-10960,Clothing,91.01,XS,3,0,4.2,Prepaid,0
+SYN-10961,Electronics,111.21,Not applicable,5,1,3.6,COD,0
+SYN-10962,Clothing,93.12,L,4,1,3.0,COD,0
+SYN-10963,Clothing,35.44,XXL,2,0,3.8,COD,1
+SYN-10964,Electronics,138.11,Not applicable,1,0,4.4,Prepaid,0
+SYN-10965,Clothing,38.55,S,2,2,3.9,COD,1
+SYN-10966,Clothing,151.21,L,3,1,4.8,Prepaid,0
+SYN-10967,Electronics,223.55,Not applicable,5,1,2.9,Prepaid,1
+SYN-10968,Electronics,140.43,Not applicable,7,0,3.2,COD,0
+SYN-10969,Clothing,103.83,S,3,1,4.5,COD,0
+SYN-10970,Electronics,105.43,Not applicable,5,0,3.5,COD,1
+SYN-10971,Electronics,159.79,Not applicable,1,7,3.2,COD,1
+SYN-10972,Clothing,53.06,S,3,2,4.1,COD,1
+SYN-10973,Electronics,138.66,Not applicable,6,0,3.4,Prepaid,0
+SYN-10974,Electronics,156.0,Not applicable,4,4,3.5,COD,0
+SYN-10975,Shoes,80.78,XS,5,0,4.9,Prepaid,1
+SYN-10976,Clothing,129.41,XS,2,4,3.9,Prepaid,0
+SYN-10977,Clothing,110.35,M,7,3,3.5,COD,1
+SYN-10978,Clothing,97.23,S,5,0,3.1,COD,1
+SYN-10979,Home,61.32,Not applicable,6,0,2.9,Prepaid,0
+SYN-10980,Home,39.57,Not applicable,1,1,4.3,COD,1
+SYN-10981,Shoes,40.55,L,4,1,4.5,Prepaid,0
+SYN-10982,Electronics,194.52,Not applicable,6,0,4.0,COD,0
+SYN-10983,Clothing,39.14,S,2,0,3.8,Prepaid,0
+SYN-10984,Home,46.15,Not applicable,1,0,3.5,COD,0
+SYN-10985,Electronics,155.0,Not applicable,1,1,3.2,Prepaid,0
+SYN-10986,Shoes,68.18,L,5,0,5.0,COD,0
+SYN-10987,Home,61.32,Not applicable,4,0,5.0,COD,0
+SYN-10988,Shoes,34.35,L,3,2,3.7,Prepaid,1
+SYN-10989,Electronics,61.31,Not applicable,2,2,4.7,Prepaid,1
+SYN-10990,Clothing,54.41,M,4,0,3.9,Prepaid,0
+SYN-10991,Clothing,78.33,M,3,2,4.6,COD,1
+SYN-10992,Electronics,119.07,Not applicable,4,0,4.8,Prepaid,0
+SYN-10993,Clothing,107.0,L,2,2,4.4,Prepaid,1
+SYN-10994,Home,43.15,Not applicable,4,3,2.6,Prepaid,1
+SYN-10995,Shoes,141.24,M,6,0,3.8,Prepaid,0
+SYN-10996,Clothing,77.13,S,1,0,4.1,Prepaid,0
+SYN-10997,Clothing,26.21,XL,2,1,3.3,Prepaid,0
+SYN-10998,Home,81.5,Not applicable,2,0,2.8,Prepaid,0
+SYN-10999,Shoes,83.05,M,6,1,4.7,COD,0
+SYN-11000,Clothing,112.24,S,9,0,4.1,COD,1
+SYN-11001,Home,32.06,Not applicable,3,1,5.0,Prepaid,0
+SYN-11002,Clothing,42.01,M,1,2,2.9,Prepaid,0
+SYN-11003,Electronics,110.45,Not applicable,5,0,4.4,COD,0
+SYN-11004,Clothing,45.27,L,5,0,3.4,Prepaid,0
+SYN-11005,Clothing,111.15,XS,1,0,3.8,Prepaid,0
+SYN-11006,Home,61.27,Not applicable,2,1,3.9,Prepaid,0
+SYN-11007,Electronics,174.09,Not applicable,1,1,2.0,Prepaid,1
+SYN-11008,Shoes,54.02,XS,4,0,3.9,Prepaid,0
+SYN-11009,Shoes,56.61,S,2,0,3.2,COD,0
+SYN-11010,Home,109.54,Not applicable,3,3,2.0,COD,1
+SYN-11011,Electronics,55.85,Not applicable,4,1,3.4,Prepaid,1
+SYN-11012,Clothing,44.35,S,4,0,3.6,COD,0
+SYN-11013,Electronics,76.42,Not applicable,5,0,4.2,COD,1
+SYN-11014,Home,57.84,Not applicable,3,0,4.0,COD,0
+SYN-11015,Shoes,61.14,XXL,3,0,4.2,Prepaid,0
+SYN-11016,Clothing,113.51,S,3,1,3.2,COD,1
+SYN-11017,Electronics,165.02,Not applicable,6,0,3.9,Prepaid,0
+SYN-11018,Home,104.05,Not applicable,1,2,3.0,Prepaid,1
+SYN-11019,Clothing,69.43,M,2,3,5.0,COD,0
+SYN-11020,Electronics,53.74,Not applicable,5,0,4.4,Prepaid,0
+SYN-11021,Electronics,128.31,Not applicable,3,0,5.0,Prepaid,0
+SYN-11022,Clothing,116.21,L,2,0,3.5,COD,0
+SYN-11023,Clothing,106.32,M,4,0,4.8,Prepaid,0
+SYN-11024,Clothing,49.49,XS,6,1,4.9,Prepaid,1
+SYN-11025,Home,70.45,Not applicable,4,1,3.1,Prepaid,0
+SYN-11026,Shoes,275.59,M,6,5,5.0,COD,0
+SYN-11027,Shoes,37.42,M,4,0,5.0,COD,0
+SYN-11028,Electronics,209.99,Not applicable,6,0,2.4,Prepaid,0
+SYN-11029,Clothing,115.15,XXL,1,0,4.9,Prepaid,1
+SYN-11030,Shoes,81.27,XXL,7,0,3.6,Prepaid,0
+SYN-11031,Shoes,62.7,S,6,6,3.9,Prepaid,1
+SYN-11032,Shoes,97.71,XXL,1,1,2.9,COD,1
+SYN-11033,Shoes,80.44,XL,3,1,4.9,Prepaid,0
+SYN-11034,Electronics,243.81,Not applicable,5,1,4.7,COD,0
+SYN-11035,Home,32.69,Not applicable,4,0,3.7,Prepaid,0
+SYN-11036,Shoes,43.17,M,5,1,4.9,Prepaid,0
+SYN-11037,Clothing,61.71,M,7,1,4.1,COD,1
+SYN-11038,Electronics,185.36,Not applicable,2,0,3.3,Prepaid,0
+SYN-11039,Electronics,181.64,Not applicable,3,1,3.7,COD,0
+SYN-11040,Shoes,92.09,S,5,3,4.2,COD,0
+SYN-11041,Clothing,74.25,L,6,0,3.7,Prepaid,0
+SYN-11042,Home,108.32,Not applicable,5,0,5.0,Prepaid,0
+SYN-11043,Shoes,58.66,S,4,0,3.0,COD,0
+SYN-11044,Clothing,88.56,M,2,2,3.9,COD,1
+SYN-11045,Shoes,78.23,L,1,0,4.4,COD,0
+SYN-11046,Shoes,28.04,XXL,6,0,3.9,COD,0
+SYN-11047,Shoes,77.0,S,4,0,5.0,Prepaid,0
+SYN-11048,Home,194.25,Not applicable,2,0,2.7,Prepaid,0
+SYN-11049,Home,58.04,Not applicable,5,0,4.0,Prepaid,1
+SYN-11050,Clothing,68.58,L,9,1,3.7,Prepaid,0
+SYN-11051,Electronics,170.14,Not applicable,1,3,3.4,Prepaid,0
+SYN-11052,Clothing,41.7,L,5,0,2.5,COD,0
+SYN-11053,Shoes,35.82,M,7,8,4.5,COD,1
+SYN-11054,Home,56.88,Not applicable,2,0,3.4,COD,0
+SYN-11055,Electronics,100.23,Not applicable,6,0,5.0,Prepaid,0
+SYN-11056,Shoes,71.41,L,4,0,2.8,COD,1
+SYN-11057,Electronics,123.98,Not applicable,2,0,4.7,Prepaid,1
+SYN-11058,Clothing,45.94,XS,4,3,4.3,COD,0
+SYN-11059,Home,49.7,Not applicable,3,0,3.1,Prepaid,0
+SYN-11060,Shoes,67.71,XS,2,0,4.2,COD,0
+SYN-11061,Home,92.86,Not applicable,1,0,5.0,Prepaid,1
+SYN-11062,Clothing,88.1,L,8,0,5.0,Prepaid,0
+SYN-11063,Home,85.85,Not applicable,4,1,5.0,Prepaid,0
+SYN-11064,Electronics,92.72,Not applicable,4,0,2.9,Prepaid,0
+SYN-11065,Electronics,101.01,Not applicable,3,1,3.2,COD,1
+SYN-11066,Clothing,97.85,L,3,0,2.3,Prepaid,1
+SYN-11067,Shoes,73.54,M,4,2,4.1,Prepaid,0
+SYN-11068,Shoes,87.6,S,2,2,4.3,COD,0
+SYN-11069,Shoes,132.61,M,4,3,3.0,Prepaid,0
+SYN-11070,Electronics,140.97,Not applicable,5,0,4.7,COD,0
+SYN-11071,Home,53.82,Not applicable,1,0,4.8,COD,0
+SYN-11072,Clothing,50.53,M,1,4,2.8,COD,1
+SYN-11073,Electronics,80.91,Not applicable,2,1,3.5,Prepaid,0
+SYN-11074,Electronics,46.11,Not applicable,4,0,4.9,Prepaid,0
+SYN-11075,Clothing,97.6,XS,8,0,4.3,COD,1
+SYN-11076,Home,51.03,Not applicable,1,0,4.2,Prepaid,0
+SYN-11077,Shoes,56.05,L,4,0,5.0,COD,0
+SYN-11078,Shoes,151.29,S,5,1,4.0,Prepaid,0
+SYN-11079,Shoes,61.14,S,6,2,3.4,COD,0
+SYN-11080,Electronics,112.33,Not applicable,4,2,3.9,Prepaid,1
+SYN-11081,Shoes,99.87,M,7,0,4.8,Prepaid,0
+SYN-11082,Shoes,76.7,L,4,2,3.6,COD,0
+SYN-11083,Electronics,112.46,Not applicable,7,2,4.7,COD,0
+SYN-11084,Clothing,84.22,M,1,0,4.8,COD,0
+SYN-11085,Clothing,61.13,XS,3,2,4.2,Prepaid,0
+SYN-11086,Electronics,130.36,Not applicable,7,0,3.7,COD,0
+SYN-11087,Home,46.68,Not applicable,3,1,3.8,COD,0
+SYN-11088,Electronics,168.43,Not applicable,2,1,4.9,Prepaid,0
+SYN-11089,Shoes,49.58,XS,6,0,5.0,Prepaid,0
+SYN-11090,Electronics,111.01,Not applicable,4,0,3.9,COD,1
+SYN-11091,Clothing,62.6,M,4,1,4.8,COD,0
+SYN-11092,Clothing,59.02,M,1,1,4.8,COD,1
+SYN-11093,Shoes,70.03,S,1,1,3.8,COD,0
+SYN-11094,Home,69.87,Not applicable,6,1,4.9,COD,0
+SYN-11095,Shoes,70.71,L,4,2,4.6,Prepaid,0
+SYN-11096,Electronics,136.91,Not applicable,6,4,5.0,Prepaid,0
+SYN-11097,Shoes,37.97,M,1,0,3.3,COD,0
+SYN-11098,Electronics,181.43,Not applicable,3,2,4.5,COD,1
+SYN-11099,Clothing,79.98,XXL,3,0,4.7,Prepaid,0
+SYN-11100,Electronics,134.41,Not applicable,7,1,3.7,COD,0
+SYN-11101,Electronics,106.77,Not applicable,1,1,3.6,COD,0
+SYN-11102,Home,48.19,Not applicable,2,2,5.0,Prepaid,0
+SYN-11103,Clothing,45.27,S,4,0,4.5,Prepaid,0
+SYN-11104,Shoes,111.79,M,3,0,4.3,COD,0
+SYN-11105,Clothing,32.25,M,5,0,4.4,COD,0
+SYN-11106,Shoes,59.81,XL,6,0,4.1,COD,0
+SYN-11107,Clothing,56.72,M,3,0,4.2,COD,0
+SYN-11108,Clothing,53.24,S,5,0,3.1,Prepaid,0
+SYN-11109,Electronics,176.04,Not applicable,3,0,4.2,Prepaid,0
+SYN-11110,Shoes,124.21,XS,4,1,5.0,Prepaid,0
+SYN-11111,Shoes,108.38,S,1,1,4.5,Prepaid,0
+SYN-11112,Electronics,89.84,Not applicable,4,0,4.8,COD,0
+SYN-11113,Clothing,47.64,S,4,1,2.4,Prepaid,1
+SYN-11114,Electronics,124.35,Not applicable,4,0,4.9,Prepaid,0
+SYN-11115,Clothing,61.99,S,1,0,3.8,Prepaid,1
+SYN-11116,Clothing,83.94,L,5,0,3.8,Prepaid,0
+SYN-11117,Shoes,87.91,L,4,1,4.7,Prepaid,0
+SYN-11118,Home,56.45,Not applicable,5,0,3.5,Prepaid,0
+SYN-11119,Electronics,77.46,Not applicable,6,3,4.7,COD,1
+SYN-11120,Clothing,68.47,L,6,0,3.4,COD,0
+SYN-11121,Electronics,132.84,Not applicable,4,1,4.7,COD,0
+SYN-11122,Electronics,227.54,Not applicable,7,0,5.0,Prepaid,0
+SYN-11123,Shoes,89.51,M,4,0,3.5,COD,0
+SYN-11124,Electronics,196.4,Not applicable,8,4,3.7,COD,0
+SYN-11125,Shoes,67.91,M,6,0,4.2,Prepaid,0
+SYN-11126,Shoes,141.56,S,1,0,5.0,Prepaid,0
+SYN-11127,Shoes,116.51,L,6,1,3.5,Prepaid,0
+SYN-11128,Clothing,20.3,M,3,1,3.9,Prepaid,0
+SYN-11129,Shoes,58.44,XL,1,2,4.5,Prepaid,0
+SYN-11130,Electronics,129.41,Not applicable,2,3,3.0,COD,0
+SYN-11131,Shoes,65.15,M,7,0,4.6,Prepaid,0
+SYN-11132,Shoes,62.89,XS,2,1,4.0,Prepaid,0
+SYN-11133,Shoes,89.04,XS,5,0,3.6,Prepaid,1
+SYN-11134,Home,45.16,Not applicable,4,0,4.5,Prepaid,1
+SYN-11135,Home,81.7,Not applicable,2,0,4.8,COD,0
+SYN-11136,Electronics,95.4,Not applicable,5,0,4.6,Prepaid,0
+SYN-11137,Clothing,124.52,XXL,1,0,4.4,COD,0
+SYN-11138,Clothing,83.88,M,4,0,4.5,Prepaid,0
+SYN-11139,Shoes,132.84,S,3,1,3.3,Prepaid,0
+SYN-11140,Home,73.41,Not applicable,2,1,4.0,COD,0
+SYN-11141,Shoes,105.77,L,6,1,3.4,COD,0
+SYN-11142,Clothing,39.0,L,4,0,3.5,Prepaid,1
+SYN-11143,Electronics,55.16,Not applicable,7,3,3.9,Prepaid,1
+SYN-11144,Clothing,91.26,M,3,1,3.8,COD,1
+SYN-11145,Electronics,86.08,Not applicable,1,0,3.9,COD,0
+SYN-11146,Shoes,88.76,M,3,1,3.9,COD,0
+SYN-11147,Clothing,48.66,L,6,0,4.1,COD,0
+SYN-11148,Electronics,161.86,Not applicable,2,3,3.5,COD,1
+SYN-11149,Clothing,38.38,S,3,0,3.8,Prepaid,1
+SYN-11150,Electronics,69.03,Not applicable,1,2,3.9,COD,1
+SYN-11151,Shoes,55.25,XXL,5,1,4.7,COD,1
+SYN-11152,Home,45.47,Not applicable,2,1,4.2,COD,1
+SYN-11153,Shoes,44.64,XS,4,0,4.4,COD,0
+SYN-11154,Shoes,48.18,L,9,0,4.1,COD,0
+SYN-11155,Electronics,123.58,Not applicable,4,0,4.2,COD,0
+SYN-11156,Clothing,112.31,XL,4,0,3.5,Prepaid,0
+SYN-11157,Electronics,108.48,Not applicable,6,0,3.1,Prepaid,0
+SYN-11158,Shoes,72.08,L,4,0,4.1,Prepaid,0
+SYN-11159,Electronics,81.97,Not applicable,4,0,3.8,COD,0
+SYN-11160,Clothing,74.65,S,3,0,3.1,COD,0
+SYN-11161,Shoes,45.45,M,3,1,3.5,COD,1
+SYN-11162,Clothing,142.58,M,1,0,3.9,Prepaid,0
+SYN-11163,Shoes,70.74,M,3,0,4.2,COD,1
+SYN-11164,Clothing,89.54,M,3,0,2.3,Prepaid,0
+SYN-11165,Shoes,34.15,S,4,0,4.4,COD,0
+SYN-11166,Electronics,86.81,Not applicable,5,1,4.5,COD,0
+SYN-11167,Electronics,67.56,Not applicable,1,1,4.0,Prepaid,0
+SYN-11168,Electronics,190.63,Not applicable,2,0,3.2,COD,0
+SYN-11169,Clothing,111.37,XXL,6,0,3.9,Prepaid,0
+SYN-11170,Clothing,107.35,L,4,0,3.9,COD,0
+SYN-11171,Clothing,63.54,XXL,4,0,5.0,Prepaid,0
+SYN-11172,Clothing,42.59,S,2,0,3.9,Prepaid,0
+SYN-11173,Electronics,103.82,Not applicable,3,2,2.1,COD,0
+SYN-11174,Clothing,38.13,L,6,1,4.9,COD,0
+SYN-11175,Electronics,112.88,Not applicable,5,1,3.2,Prepaid,0
+SYN-11176,Shoes,115.41,M,1,0,4.9,COD,0
+SYN-11177,Clothing,52.66,XS,5,5,4.6,COD,1
+SYN-11178,Clothing,56.0,L,9,1,3.0,COD,1
+SYN-11179,Clothing,27.98,M,4,0,5.0,COD,0
+SYN-11180,Shoes,63.99,XXL,3,0,3.8,Prepaid,0
+SYN-11181,Shoes,62.32,S,4,1,3.3,Prepaid,0
+SYN-11182,Clothing,94.17,XL,2,0,5.0,Prepaid,0
+SYN-11183,Shoes,66.74,M,6,0,5.0,COD,0
+SYN-11184,Electronics,89.48,Not applicable,4,1,2.5,COD,0
+SYN-11185,Shoes,136.19,M,4,1,3.7,COD,0
+SYN-11186,Clothing,159.09,XL,6,3,4.3,Prepaid,0
+SYN-11187,Electronics,132.63,Not applicable,5,0,3.9,Prepaid,0
+SYN-11188,Clothing,77.54,M,2,0,4.5,Prepaid,0
+SYN-11189,Clothing,109.87,L,4,1,4.3,COD,0
+SYN-11190,Clothing,84.8,L,1,0,4.4,COD,1
+SYN-11191,Electronics,152.08,Not applicable,7,0,4.0,COD,0
+SYN-11192,Home,96.25,Not applicable,6,2,4.7,COD,0
+SYN-11193,Clothing,68.36,M,8,1,3.7,Prepaid,0
+SYN-11194,Electronics,147.55,Not applicable,1,1,3.5,COD,1
+SYN-11195,Shoes,61.55,M,5,0,3.8,Prepaid,0
+SYN-11196,Home,69.8,Not applicable,6,3,3.1,Prepaid,1
+SYN-11197,Home,47.05,Not applicable,5,1,4.5,COD,1
+SYN-11198,Clothing,54.84,S,5,1,3.8,Prepaid,0
+SYN-11199,Electronics,46.52,Not applicable,6,0,4.1,Prepaid,1
