@@ -1,0 +1,27 @@
+{
+  "model_name": "ReturnWise-CalibratedLogisticRegressionPipeline",
+  "sample_size": 1200,
+  "train_samples": 960,
+  "test_samples": 240,
+  "accuracy": 0.6167,
+  "precision": 0.3367,
+  "recall": 0.55,
+  "f1_score": 0.4177,
+  "roc_auc": 0.6276,
+  "random_state": 42,
+  "classes": [
+    "Kept (0)",
+    "Returned (1)"
+  ],
+  "categorical_features": [
+    "product_category",
+    "size",
+    "payment_type"
+  ],
+  "numeric_features": [
+    "product_price",
+    "delivery_days",
+    "customer_previous_returns",
+    "product_rating"
+  ]
+}
